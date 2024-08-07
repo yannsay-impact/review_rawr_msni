@@ -1,0 +1,702 @@
+"","list_name","name","label_english","label_french","filter_admin1","filter_admin2","filter_admin3","filter_admin4"
+"1","l_survey_modality","remote","Remote","A distance",NA,NA,NA,NA
+"2","l_survey_modality","in_person","In person","En personne",NA,NA,NA,NA
+"3",NA,NA,NA,NA,NA,NA,NA,NA
+"4","l_enum_id","id_1","id_1","id_1",NA,NA,NA,NA
+"5","l_enum_id","id_2","id_2","id_2",NA,NA,NA,NA
+"6","l_enum_id","id_3","id_3","id_3",NA,NA,NA,NA
+"7",NA,NA,NA,NA,NA,NA,NA,NA
+"8","l_gender","male","Male / man","Masculin / homme",NA,NA,NA,NA
+"9","l_gender","female","Female / woman","Féminin / femme",NA,NA,NA,NA
+"10","l_gender","other","Other","Autre",NA,NA,NA,NA
+"11","l_gender","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"12",NA,NA,NA,NA,NA,NA,NA,NA
+"13","l_admin1","PCODE1","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"14","l_admin1","PCODE2","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"15",NA,NA,NA,NA,NA,NA,NA,NA
+"16","l_admin2","PCODE11","To be updated by country","À mettre à jour par le pays","PCODE1",NA,NA,NA
+"17","l_admin2","PCODE12","To be updated by country","À mettre à jour par le pays","PCODE1",NA,NA,NA
+"18","l_admin2","PCODE21","To be updated by country","À mettre à jour par le pays","PCODE2",NA,NA,NA
+"19",NA,NA,NA,NA,NA,NA,NA,NA
+"20","l_admin3","PCODE111","To be updated by country","À mettre à jour par le pays",NA,"PCODE11",NA,NA
+"21","l_admin3","PCODE121","To be updated by country","À mettre à jour par le pays",NA,"PCODE12",NA,NA
+"22","l_admin3","PCODE211","To be updated by country","À mettre à jour par le pays",NA,"PCODE21",NA,NA
+"23","l_admin3","PCODE212","To be updated by country","À mettre à jour par le pays",NA,"PCODE21",NA,NA
+"24",NA,NA,NA,NA,NA,NA,NA,NA
+"25","l_admin4","PCODE1111","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE111",NA
+"26","l_admin4","PCODE1211","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE121",NA
+"27","l_admin4","PCODE2111","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE211",NA
+"28","l_admin4","PCODE2121","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE212",NA
+"29",NA,NA,NA,NA,NA,NA,NA,NA
+"30","l_cluster_id","cluster_1","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE111",NA
+"31","l_cluster_id","cluster_2","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE121",NA
+"32","l_cluster_id","cluster_3","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE211",NA
+"33","l_cluster_id","cluster_4","To be updated by country","À mettre à jour par le pays",NA,NA,"PCODE212",NA
+"34",NA,NA,NA,NA,NA,NA,NA,NA
+"35","l_yn","yes","Yes","Oui",NA,NA,NA,NA
+"36","l_yn","no","No","Non",NA,NA,NA,NA
+"37",NA,NA,NA,NA,NA,NA,NA,NA
+"38","l_yn_dnk_pnta","yes","Yes","Oui",NA,NA,NA,NA
+"39","l_yn_dnk_pnta","no","No","Non",NA,NA,NA,NA
+"40","l_yn_dnk_pnta","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"41","l_yn_dnk_pnta","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"42",NA,NA,NA,NA,NA,NA,NA,NA
+"43","l_setting","rural","Rural","Rurale",NA,NA,NA,NA
+"44","l_setting","urban","Urban or Peri-Urban","Urbain ou périurbain",NA,NA,NA,NA
+"45","l_setting","camp","Formal or non-formal camp or site setting","Camp ou site formel ou non formel",NA,NA,NA,NA
+"46",NA,NA,NA,NA,NA,NA,NA,NA
+"47","l_ind_age_under1","0","0","0",NA,NA,NA,NA
+"48","l_ind_age_under1","1","1","1",NA,NA,NA,NA
+"49","l_ind_age_under1","2","2","2",NA,NA,NA,NA
+"50","l_ind_age_under1","3","3","3",NA,NA,NA,NA
+"51","l_ind_age_under1","4","4","4",NA,NA,NA,NA
+"52","l_ind_age_under1","5","5","5",NA,NA,NA,NA
+"53","l_ind_age_under1","6","6","6",NA,NA,NA,NA
+"54","l_ind_age_under1","7","7","7",NA,NA,NA,NA
+"55","l_ind_age_under1","8","8","8",NA,NA,NA,NA
+"56","l_ind_age_under1","9","9","9",NA,NA,NA,NA
+"57","l_ind_age_under1","10","10","10",NA,NA,NA,NA
+"58","l_ind_age_under1","11","11","11",NA,NA,NA,NA
+"59","l_ind_age_under1","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"60",NA,NA,NA,NA,NA,NA,NA,NA
+"61","l_edu_level_grade","level1_grade1","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"62","l_edu_level_grade","level1_grade2","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"63","l_edu_level_grade","level2_grade_1","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"64","l_edu_level_grade","level2_grade_2","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"65","l_edu_level_grade","level2_grade_3","To be updated by country","À mettre à jour par le pays",NA,NA,NA,NA
+"66",NA,NA,NA,NA,NA,NA,NA,NA
+"67","l_edu_barrier","costs","Cannot afford the direct costs of education (e.g. tuition, supplies, transportation)","Impossibilité de payer les coûts directs de l'éducation (par exemple, les frais de scolarité, les fournitures, le transport)",NA,NA,NA,NA
+"68","l_edu_barrier","lack_interest","There is a lack of interest/Education is not a priority either for the child or the household","Manque d'intérêt / L'éducation n'est pas une priorité pour l'enfant ou le ménage",NA,NA,NA,NA
+"69","l_edu_barrier","lack_accessible_school","Lack of appropriate and accessible school","Absence d'école appropriée et accessible",NA,NA,NA,NA
+"70","l_edu_barrier","lack_classrooms","School does not have enough classrooms that are usable","L'école ne dispose pas d'un nombre suffisant de salles de classe utilisables",NA,NA,NA,NA
+"71","l_edu_barrier","lack_wash_facilities","School's WASH facilities are in poor condition or not available","Les installations d'eau, hygiène et assainissement de l'école sont en mauvais état ou ne sont pas disponibles",NA,NA,NA,NA
+"72","l_edu_barrier","school_closed","School has been closed due to damage, natural disaster, conflict","L'école a été fermée en raison de dommages, d'une catastrophe naturelle ou d'un conflit.",NA,NA,NA,NA
+"73","l_edu_barrier","lack_teacher","Lack of or poor quality of teachers","Manque d'enseignants ou qualité médiocre des enseignants",NA,NA,NA,NA
+"74","l_edu_barrier","curriculum_not_useful","Curriculum and/or the certificates issued by school are not perceived to be useful for the household","Le programme scolaire et/ou les certificats délivrés par l'école ne sont pas perçus comme utiles pour le ménage.",NA,NA,NA,NA
+"75","l_edu_barrier","protection_at_school","Protection risks whilst at the school","Risques de protection à l'école",NA,NA,NA,NA
+"76","l_edu_barrier","protection_travel_school","Protection risks whilst travelling to the school","Risques de protection pendant le trajet vers l'école",NA,NA,NA,NA
+"77","l_edu_barrier","child_work_home","Child needs to work at home or on the household's own farm (i.e. is not earning an income for these activities, but may allow other family members to earn an income)","L'enfant doit travailler à la maison ou dans la ferme du ménage (c'est-à-dire qu'il ne gagne pas de revenu pour ces activités, mais peut permettre à d'autres membres de la famille de gagner un revenu)",NA,NA,NA,NA
+"78","l_edu_barrier","child_work_outside","Child participating in income generating activities outside of the home","L'enfant participe à des activités génératrices de revenus en dehors du foyer",NA,NA,NA,NA
+"79","l_edu_barrier","child_armed_group","Child is associated with armed forces or armed groups","L'enfant est associé à des forces armées ou à des groupes armés",NA,NA,NA,NA
+"80","l_edu_barrier","child_marriage","Marriage, engagement and/or pregnancy","Mariage, fiançailles et/ou grossesse",NA,NA,NA,NA
+"81","l_edu_barrier","child_health","The child's disability or health issues prevents them from accessing school","Le handicap ou les problèmes de santé de l'enfant l'empêchent d'aller à l'école",NA,NA,NA,NA
+"82","l_edu_barrier","language","Language issues","Problèmes de langue",NA,NA,NA,NA
+"83","l_edu_barrier","ban","There is a ban preventing child from attending","Une interdiction empêche l'enfant d'aller à l'école",NA,NA,NA,NA
+"84","l_edu_barrier","enroll_lack_documentation","Unable to enroll in school due to lack of documentation","Impossibilité de s'inscrire à l'école en raison d'un manque de documents",NA,NA,NA,NA
+"85","l_edu_barrier","enroll_displacement","Unable to enroll in school due to recent displacement/return (displacement since after the start of the school year)","Impossibilité de s'inscrire à l'école en raison d'un déplacement/retour récent (déplacement après le début de l'année scolaire)",NA,NA,NA,NA
+"86","l_edu_barrier","discrimination","Discrimination or stigmatization of the child for any reason","Discrimination ou stigmatisation de l'enfant pour quelque raison que ce soit",NA,NA,NA,NA
+"87","l_edu_barrier","child_graduated","The child has already graduated from secondary education.","L'enfant est déjà diplômé de l'enseignement secondaire.",NA,NA,NA,NA
+"88","l_edu_barrier","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"89","l_edu_barrier","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"90","l_edu_barrier","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"91",NA,NA,NA,NA,NA,NA,NA,NA
+"92","l_fsl_hhs","rarely","Rarely (1-2 times)","Rarement (1-2 fois)",NA,NA,NA,NA
+"93","l_fsl_hhs","sometimes","Sometimes (3-10 times)","Parfois (3-10 fois)",NA,NA,NA,NA
+"94","l_fsl_hhs","often","Often (10+ times)","Souvent (10+ fois)",NA,NA,NA,NA
+"95",NA,NA,NA,NA,NA,NA,NA,NA
+"96","l_fsl_source_food","own_production","Own production","Propre production",NA,NA,NA,NA
+"97","l_fsl_source_food","purchase_cash","Purchased (exl. CVA) with cash","Achat (hors aide en espèces et en coupons) avec de l'argent liquide",NA,NA,NA,NA
+"98","l_fsl_source_food","purchase_credit","Purchased with credit","Achat à crédit",NA,NA,NA,NA
+"99","l_fsl_source_food","hunting","Hunting, fishing","Chasse, pêche",NA,NA,NA,NA
+"100","l_fsl_source_food","gathering","Gathering","Cueillette",NA,NA,NA,NA
+"101","l_fsl_source_food","exchange","Exchange for labor or items","Échange contre du travail ou des articles",NA,NA,NA,NA
+"102","l_fsl_source_food","borrow","Borrowed","Emprunté",NA,NA,NA,NA
+"103","l_fsl_source_food","gift","Gift from family and/or friends","Cadeau de la famille et/ou des amis",NA,NA,NA,NA
+"104","l_fsl_source_food","begging","Begging","Mendicité",NA,NA,NA,NA
+"105","l_fsl_source_food","assistance_in_kind","In-kind food aid","Aide alimentaire en nature",NA,NA,NA,NA
+"106","l_fsl_source_food","assistance_cva","CVA (cash and voucher assistance)","Aide en espèces et en coupons (CVA)",NA,NA,NA,NA
+"107","l_fsl_source_food","other","Other (specify)","Autre (précisez)",NA,NA,NA,NA
+"108","l_fsl_source_food","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"109","l_fsl_source_food","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"110",NA,NA,NA,NA,NA,NA,NA,NA
+"111","l_fsl_lcsi","yes","Yes","Oui",NA,NA,NA,NA
+"112","l_fsl_lcsi","no_had_no_need","No, had no need to use this coping strategy","Non, je n'ai pas eu besoin d'utiliser cette stratégie d'adaptation",NA,NA,NA,NA
+"113","l_fsl_lcsi","no_exhausted","No, have already exhausted this coping strategy and cannot use it again","Non, j'ai déjà épuisé cette stratégie d'adaptation et je ne peux plus l'utiliser",NA,NA,NA,NA
+"114","l_fsl_lcsi","not_applicable","Not applicable / This coping strategy is not available to me","Non pertinent / je ne dispose pas de cette stratégie d'adaptation",NA,NA,NA,NA
+"115",NA,NA,NA,NA,NA,NA,NA,NA
+"116",NA,NA,NA,NA,NA,NA,NA,NA
+"117","l_fsl_lcsi_other","none","No other reason","Pas d'autres raisons",NA,NA,NA,NA
+"118","l_fsl_lcsi_other","healthcare","To access or pay for healthcare","Accéder ou payer les soins de santé",NA,NA,NA,NA
+"119","l_fsl_lcsi_other","shelter","To access or pay for shelter","Accéder ou payer le logement",NA,NA,NA,NA
+"120","l_fsl_lcsi_other","education","To access or pay for education","Accéder ou payer l'éducation",NA,NA,NA,NA
+"121","l_fsl_lcsi_other","other","Other (specify)","Autre (merci de préciser)",NA,NA,NA,NA
+"122","l_fsl_lcsi_other","pnta","Prefer not to answer","Ne sait pas",NA,NA,NA,NA
+"123","l_fsl_lcsi_other","dnk","Don´t know","Préfère ne pas répondre",NA,NA,NA,NA
+"124",NA,NA,NA,NA,NA,NA,NA,NA
+"125","l_fsl_lcsi_en_other","food","To access or pay for food","Accéder ou payer de la nourriture",NA,NA,NA,NA
+"126","l_fsl_lcsi_en_other","healthcare","To access or pay for healthcare","Accéder ou payer les soins de santé",NA,NA,NA,NA
+"127","l_fsl_lcsi_en_other","shelter","To access or pay for shelter","Accéder ou payer le logement",NA,NA,NA,NA
+"128","l_fsl_lcsi_en_other","education","To access or pay for education","Accéder ou payer l'éducation",NA,NA,NA,NA
+"129","l_fsl_lcsi_en_other","other","Other (specify)","Autre (merci de préciser)",NA,NA,NA,NA
+"130","l_fsl_lcsi_en_other","pnta","Prefer not to answer","Ne sait pas",NA,NA,NA,NA
+"131","l_fsl_lcsi_en_other","dnk","Don´t know","Préfère ne pas répondre",NA,NA,NA,NA
+"132",NA,NA,NA,NA,NA,NA,NA,NA
+"133","l_cm_income_source","salaried","1. Salaried work",NA,NA,NA,NA,NA
+"134","l_cm_income_source","casual","2. Casual or daily labour",NA,NA,NA,NA,NA
+"135","l_cm_income_source","own_business","3. Income from own business or regular trade",NA,NA,NA,NA,NA
+"136","l_cm_income_source","own_production","4. Income from own production (agriculture, livestock, fishing, food processing, home manufacture, etc.)",NA,NA,NA,NA,NA
+"137","l_cm_income_source","social_benefits","5. Government social benefits or assistance",NA,NA,NA,NA,NA
+"138","l_cm_income_source","rent","6. Income from rent",NA,NA,NA,NA,NA
+"139","l_cm_income_source","remittances","7. Remittances",NA,NA,NA,NA,NA
+"140","l_cm_income_source","assistance","8. Humanitarian assistance",NA,NA,NA,NA,NA
+"141","l_cm_income_source","support_friends","9. Loans or support from family and friends (not including remittances)",NA,NA,NA,NA,NA
+"142","l_cm_income_source","donation","10. Loans, support, or charitable donations from community members (not including humanitarian assistance)",NA,NA,NA,NA,NA
+"143","l_cm_income_source","other","11. Other (please specify)",NA,NA,NA,NA,NA
+"144","l_cm_income_source","none","12. My household did not receive any monetary income over the last 30 days",NA,NA,NA,NA,NA
+"145","l_cm_income_source","dnk","13. Don't know",NA,NA,NA,NA,NA
+"146","l_cm_income_source","pnta","14. Prefer not to answer",NA,NA,NA,NA,NA
+"147",NA,NA,NA,NA,NA,NA,NA,NA
+"148","l_nut_ind_under5_sick_symptoms","fever","Fever","Fièvre",NA,NA,NA,NA
+"149","l_nut_ind_under5_sick_symptoms","diarrhoea","Diarrhoea","Diarrhée",NA,NA,NA,NA
+"150","l_nut_ind_under5_sick_symptoms","cough","Cough","Toux",NA,NA,NA,NA
+"151","l_nut_ind_under5_sick_symptoms","vomiting","Vomiting","Vomissements",NA,NA,NA,NA
+"152","l_nut_ind_under5_sick_symptoms","skin_infection","Skin infection","Infection de la peau",NA,NA,NA,NA
+"153","l_nut_ind_under5_sick_symptoms","ear_infection","Ear infection","Infection de l'oreille",NA,NA,NA,NA
+"154","l_nut_ind_under5_sick_symptoms","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"155","l_nut_ind_under5_sick_symptoms","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"156","l_nut_ind_under5_sick_symptoms","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"157",NA,NA,NA,NA,NA,NA,NA,NA
+"158","l_nut_ind_under5_sick_location","none","No treatment sought","Aucun traitement recherché",NA,NA,NA,NA
+"159","l_nut_ind_under5_sick_location","gov_hospital","Government hospital","Hôpital public",NA,NA,NA,NA
+"160","l_nut_ind_under5_sick_location","gov_center","Government health center","Centre de santé gouvernemental",NA,NA,NA,NA
+"161","l_nut_ind_under5_sick_location","gov_post","Government health post","Poste de santé gouvernemental",NA,NA,NA,NA
+"162","l_nut_ind_under5_sick_location","gov_other","Other government facility","Autre établissement public",NA,NA,NA,NA
+"163","l_nut_ind_under5_sick_location","private_hospital","Private hospital","Hôpital privé",NA,NA,NA,NA
+"164","l_nut_ind_under5_sick_location","private_clinic","Private clinic","Clinique privée",NA,NA,NA,NA
+"165","l_nut_ind_under5_sick_location","private_other","Other private medical facility","Autre établissement médical privé",NA,NA,NA,NA
+"166","l_nut_ind_under5_sick_location","ngo_hospital","NGO hospital","Hôpital d'une ONG",NA,NA,NA,NA
+"167","l_nut_ind_under5_sick_location","ngo_clinic","NGO clinic","Clinique d'une ONG",NA,NA,NA,NA
+"168","l_nut_ind_under5_sick_location","ngo_other","Other NGO medical facility","Autre établissement médical d'une ONG",NA,NA,NA,NA
+"169","l_nut_ind_under5_sick_location","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"170","l_nut_ind_under5_sick_location","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"171","l_nut_ind_under5_sick_location","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"172",NA,NA,NA,NA,NA,NA,NA,NA
+"173","l_aap_priority_challenge","drinking_water","Lack of access to enough safe water for drinking","Manque d'accès à une quantité suffisante d'eau potable pour la boisson",NA,NA,NA,NA
+"174","l_aap_priority_challenge","food","Lack of access to sufficient quantity or quality of food","Manque d'accès à une quantité ou une qualité suffisante de nourriture",NA,NA,NA,NA
+"175","l_aap_priority_challenge","shelter_housing","Lack of a suitable living space","Manque d'espace de vie approprié",NA,NA,NA,NA
+"176","l_aap_priority_challenge","wash","Lack of easy and safe access to a clean toilet","Manque d'accès facile et sûr à des toilettes propres",NA,NA,NA,NA
+"177","l_aap_priority_challenge","hygiene_nfis","Lack of soap, water, or suitable washing place","Manque de savon, d'eau ou d'un endroit approprié pour se laver",NA,NA,NA,NA
+"178","l_aap_priority_challenge","non_hygiene_nfis","No access to adequate clothing, footwear, bedding, or blankets","Absence d'accès à des vêtements, chaussures, literie ou couvertures adéquats",NA,NA,NA,NA
+"179","l_aap_priority_challenge","livelihoods_support_employment","Lack of (or not enough) income, money, or resources to sustain life","Manque (ou insuffisance) de revenus, d'argent ou de ressources pour assurer sa subsistance",NA,NA,NA,NA
+"180","l_aap_priority_challenge","healthcare","Lack of access to adequate healthcare","Manque d'accès à des soins de santé adéquats",NA,NA,NA,NA
+"181","l_aap_priority_challenge","psychosocial_support","Feeling very distressed, upset, sad, worried, scared, or angry","Sentiment de grande détresse, de bouleversement, de tristesse, d'inquiétude, de peur ou de colère",NA,NA,NA,NA
+"182","l_aap_priority_challenge","protection_safety","Lack of safety or protection for oneself or family due to conflict, violence, or crime","Manque de sécurité ou de protection pour soi-même ou sa famille en raison d'un conflit, de la violence ou de la criminalité",NA,NA,NA,NA
+"183","l_aap_priority_challenge","education_children","Children not attending school or receiving insufficient education","Enfants non scolarisés ou recevant une éducation insuffisante",NA,NA,NA,NA
+"184","l_aap_priority_challenge","legal_documentation","Lack of access to legal sytem, or no legal rights in the community","Manque d'accès au système juridique ou absence de droits légaux dans la communauté",NA,NA,NA,NA
+"185","l_aap_priority_challenge","telecomunication","Lack of means to communicate with relatives or access to essential information via phone, internet, radio, or other means","Absence de moyens de communication avec les proches ou d'accès à des informations essentielles par téléphone, internet, radio ou autres moyens",NA,NA,NA,NA
+"186","l_aap_priority_challenge","law_justice","Lack of law and justice in the community","Absence de droit et de justice dans la communauté",NA,NA,NA,NA
+"187","l_aap_priority_challenge","women_not_safe","Women don’t feel safe enough in the community","Les femmes ne se sentent pas suffisamment en sécurité dans la communauté",NA,NA,NA,NA
+"188","l_aap_priority_challenge","need_to_repay_debt","Need to repay debt","Nécessité de rembourser des dettes",NA,NA,NA,NA
+"189","l_aap_priority_challenge","access_to_energy","Inadequate access to energy (lighting, electricity, cooking fuels)","Accès insuffisant à l'énergie (éclairage, électricité, combustibles de cuisson)",NA,NA,NA,NA
+"190","l_aap_priority_challenge","none","None","Aucun",NA,NA,NA,NA
+"191","l_aap_priority_challenge","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"192","l_aap_priority_challenge","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"193","l_aap_priority_challenge","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"194",NA,NA,NA,NA,NA,NA,NA,NA
+"195","l_aap_priority_support_ngo","shelter_housing","Shelter / housing","Abri / logement",NA,NA,NA,NA
+"196","l_aap_priority_support_ngo","food","Food","Alimentation",NA,NA,NA,NA
+"197","l_aap_priority_support_ngo","nutrition_services","Nutrition (e.g. special nutritious foods for child/PLW, infant formula, nutrition supplements)","Nutrition (par exemple, aliments nutritifs spéciaux pour l'enfant/le jeune enfant, lait maternisé, compléments nutritionnels)",NA,NA,NA,NA
+"198","l_aap_priority_support_ngo","healthcare","Healthcare","Soins de santé",NA,NA,NA,NA
+"199","l_aap_priority_support_ngo","seeds_other_agricultural_inputs","Seeds or other agricultural inputs","Semences ou autres intrants agricoles",NA,NA,NA,NA
+"200","l_aap_priority_support_ngo","livelihoods_support_employment","Livelihoods support / employment","Soutien aux moyens de subsistance / emploi",NA,NA,NA,NA
+"201","l_aap_priority_support_ngo","drinking_water","Drinking water","Eau potable",NA,NA,NA,NA
+"202","l_aap_priority_support_ngo","wash","Sanitation services (e.g. latrine; borehole)","Services d'assainissement (par exemple, latrines, forage)",NA,NA,NA,NA
+"203","l_aap_priority_support_ngo","hygiene_nfis","Essential Hygiene items (e.g. soap, sanitary pads)","Articles d'hygiène essentiels (par exemple, savon, serviettes hygiéniques)",NA,NA,NA,NA
+"204","l_aap_priority_support_ngo","non_hygiene_nfis","Essential household and personal items (clothes, blanket, cooking items, sleeping items, storing food)","Articles ménagers et personnels essentiels (vêtements, couvertures, articles de cuisine, articles de couchage, stockage de nourriture)",NA,NA,NA,NA
+"205","l_aap_priority_support_ngo","telecomunication","Means to communicate with relatives and access essential information (phone credits, better phone network coverage, radio, internet access,…)","Moyens de communiquer avec les proches et d'accéder aux informations essentielles (crédits téléphoniques, meilleure couverture du réseau téléphonique, radio, accès à l'internet,...)",NA,NA,NA,NA
+"206","l_aap_priority_support_ngo","need_to_repay_debt","Need to repay debt","Besoin de rembourser une dette",NA,NA,NA,NA
+"207","l_aap_priority_support_ngo","education_children","Education for children under 18","Éducation des enfants de moins de 18 ans",NA,NA,NA,NA
+"208","l_aap_priority_support_ngo","psychosocial_support","Psychosocial support","Soutien psychosocial",NA,NA,NA,NA
+"209","l_aap_priority_support_ngo","protection_safety","Protection / safety","Protection / sécurité",NA,NA,NA,NA
+"210","l_aap_priority_support_ngo","legal_documentation","Legal services & Civil Documentation (such as civil id, passport, etc.)","Services juridiques et documents d'état civil (carte d'identité, passeport, etc.)",NA,NA,NA,NA
+"211","l_aap_priority_support_ngo","access_to_energy","Access to energy (lighting, electricity, cooking fuels)","Accès à l'énergie (éclairage, électricité, combustibles de cuisson)",NA,NA,NA,NA
+"212","l_aap_priority_support_ngo","none","None","Aucun",NA,NA,NA,NA
+"213","l_aap_priority_support_ngo","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"214","l_aap_priority_support_ngo","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"215","l_aap_priority_support_ngo","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"216",NA,NA,NA,NA,NA,NA,NA,NA
+"217","l_aap_preferred_modality","do_not_want_assistance","Do not want to receive humanitarian assistance","Ne souhaite pas recevoir d'aide humanitaire",NA,NA,NA,NA
+"218","l_aap_preferred_modality","in_kind_food","In-kind (Food)","En nature (nourriture)",NA,NA,NA,NA
+"219","l_aap_preferred_modality","in_kind_nfis","In-kind (Essential hygiene and personal items)","En nature (articles d'hygiène essentiels et articles personnels)",NA,NA,NA,NA
+"220","l_aap_preferred_modality","physical_cash","Physical cash","Espèces physiques",NA,NA,NA,NA
+"221","l_aap_preferred_modality","cash_bank_transfer","Cash via bank transfer","Argent liquide par virement bancaire",NA,NA,NA,NA
+"222","l_aap_preferred_modality","cash_via_prepaid_cards","Cash via prepaid cards","Espèces via des cartes prépayées",NA,NA,NA,NA
+"223","l_aap_preferred_modality","cash_via_mobile_money","Cash via mobile money","Espèces via l'argent mobile",NA,NA,NA,NA
+"224","l_aap_preferred_modality","vouchers","Vouchers","Bons d'achat",NA,NA,NA,NA
+"225","l_aap_preferred_modality","services","Services (e.g. healthcare, education)","Services (par exemple, soins de santé, éducation)",NA,NA,NA,NA
+"226","l_aap_preferred_modality","construction_rehabilitation_infrastructure","Construction / rehabilitation of infrastructure (water points, latrines, roads, etc.)","Construction / réhabilitation d'infrastructures (points d'eau, latrines, routes, etc.)",NA,NA,NA,NA
+"227","l_aap_preferred_modality","other","Other (specify)","Autres (à préciser)",NA,NA,NA,NA
+"228","l_aap_preferred_modality","dnk","Don’t know","Ne sait pas",NA,NA,NA,NA
+"229","l_aap_preferred_modality","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"230",NA,NA,NA,NA,NA,NA,NA,NA
+"231","l_aap_received_assistance_date","past_30d","In the past 30 days","Au cours des 30 derniers jours",NA,NA,NA,NA
+"232","l_aap_received_assistance_date","1_3_months","1 to 3 months ago","Entre 1 et 3 mois",NA,NA,NA,NA
+"233","l_aap_received_assistance_date","4_6_months","4 to 6 months ago","Entre  4 et 6 mois",NA,NA,NA,NA
+"234","l_aap_received_assistance_date","7_12_months","7 to 12 months ago","Entre 7 et 12 mois",NA,NA,NA,NA
+"235","l_aap_received_assistance_date","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"236","l_aap_received_assistance_date","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"237",NA,NA,NA,NA,NA,NA,NA,NA
+"238","l_snfi_shelter_type","collective_center","Collective center","Centre collectif",NA,NA,NA,NA
+"239","l_snfi_shelter_type","individual_shelter","Individual shelter (for this household only)","Abri individuel (pour ce ménage uniquement)",NA,NA,NA,NA
+"240","l_snfi_shelter_type","hosted","Hosted by friends/relatives","Hébergé par des amis/de la famille",NA,NA,NA,NA
+"241","l_snfi_shelter_type","hosting","Hosting at least one other household in own home","Hébergement d'au moins un autre ménage dans sa propre maison",NA,NA,NA,NA
+"242","l_snfi_shelter_type","none","No shelter (sleeping in the open)","Pas d'abri (dort à l'air libre)",NA,NA,NA,NA
+"243","l_snfi_shelter_type","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"244",NA,NA,NA,NA,NA,NA,NA,NA
+"245","l_snfi_shelter_type_individual","house","Solid / finished house","Maison solide / finie",NA,NA,NA,NA
+"246","l_snfi_shelter_type_individual","apartment","Solid / finished apartment","Appartement solide / fini",NA,NA,NA,NA
+"247","l_snfi_shelter_type_individual","unfinished_building","Unfinished / non-enclosed building","Bâtiment inachevé / non fermé",NA,NA,NA,NA
+"248","l_snfi_shelter_type_individual","tent","Tent","Tente",NA,NA,NA,NA
+"249","l_snfi_shelter_type_individual","makeshift","Makeshift shelter","Abri de fortune",NA,NA,NA,NA
+"250","l_snfi_shelter_type_individual","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"251","l_snfi_shelter_type_individual","dnk","Don´t know","Ne sait pas",NA,NA,NA,NA
+"252","l_snfi_shelter_type_individual","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"253",NA,NA,NA,NA,NA,NA,NA,NA
+"254","l_snfi_shelter_issue","none","No noticeable issue","Pas de problème notable",NA,NA,NA,NA
+"255","l_snfi_shelter_issue","lack_privacy","Lack of privacy inside the shelter (no partitions, doors)","Manque d'intimité à l'intérieur de l'abri (pas de cloisons, pas de portes)",NA,NA,NA,NA
+"256","l_snfi_shelter_issue","lack_space","Lack of space inside shelter (less than 3.5m2 per household member)","Manque d'espace à l'intérieur du refuge (moins de 3,5 m2 par membre du ménage)",NA,NA,NA,NA
+"257","l_snfi_shelter_issue","temperature","Inside the shelter it is often too hot / cold","Il fait souvent trop chaud ou trop froid à l'intérieur du refuge",NA,NA,NA,NA
+"258","l_snfi_shelter_issue","ventilation","Limited ventilation (no air circulation unless main entrance is open)","Ventilation limitée (pas de circulation d'air si l'entrée principale n'est pas ouverte)",NA,NA,NA,NA
+"259","l_snfi_shelter_issue","leak","Leaks during rain","Fuites en cas de pluie",NA,NA,NA,NA
+"260","l_snfi_shelter_issue","lock","Unable to lock the shelter","Impossibilité de fermer l'abri à clé",NA,NA,NA,NA
+"261","l_snfi_shelter_issue","lack_lighting","Lack of lighting outside the shelter","Manque d'éclairage à l'extérieur de l'abri",NA,NA,NA,NA
+"262","l_snfi_shelter_issue","difficulty_move","Some members of the household have difficulties moving inside or outside the house","Certains membres du ménage ont des difficultés à se déplacer à l'intérieur ou à l'extérieur de la maison",NA,NA,NA,NA
+"263","l_snfi_shelter_issue","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"264","l_snfi_shelter_issue","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"265","l_snfi_shelter_issue","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"266",NA,NA,NA,NA,NA,NA,NA,NA
+"267","l_snfi_fds_cooking","yes_no_issues","Yes, without any issues","Oui, sans problème",NA,NA,NA,NA
+"268","l_snfi_fds_cooking","yes_issues","Yes, with issues","Oui, avec des problèmes",NA,NA,NA,NA
+"269","l_snfi_fds_cooking","no_cannot","No, cannot do","Non, ne peut pas",NA,NA,NA,NA
+"270","l_snfi_fds_cooking","no_no_need","No, do not need to cook in current shelter","Non, je n'ai pas besoin de cuisiner dans l'abri actuel",NA,NA,NA,NA
+"271","l_snfi_fds_cooking","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"272","l_snfi_fds_cooking","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"273",NA,NA,NA,NA,NA,NA,NA,NA
+"274","l_snfi_fds_cooking_issue","lack_materials","Insufficient essential household items for cooking (utensils, kitchen sets, eating sets)","Manque d'articles ménagers essentiels pour la cuisine (ustensiles, ustensiles de cuisine, ustensiles de table)",NA,NA,NA,NA
+"275","l_snfi_fds_cooking_issue","lack_access_facilities","Lack of access to cooking facilities","Manque d'accès aux installations de cuisine/de cuisson",NA,NA,NA,NA
+"276","l_snfi_fds_cooking_issue","unsafe","Unsafe cooking facilities","Installations de cuisine/cuisson dangereuses",NA,NA,NA,NA
+"277","l_snfi_fds_cooking_issue","inadequate_space","Inadequate space for cooking (leaks during rain, no ventilation)","Espace inadéquat pour cuisiner (fuites en cas de pluie, absence de ventilation)",NA,NA,NA,NA
+"278","l_snfi_fds_cooking_issue","lack_space","Insufficient space","Espace insuffisant",NA,NA,NA,NA
+"279","l_snfi_fds_cooking_issue","lack_fuel","Insufficient cooking fuel","Insuffisance de combustible pour la cuisson",NA,NA,NA,NA
+"280","l_snfi_fds_cooking_issue","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"281","l_snfi_fds_cooking_issue","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"282",NA,NA,NA,NA,NA,NA,NA,NA
+"283","l_snfi_fds","yes_no_issues","Yes, without any issues","Oui, sans problème",NA,NA,NA,NA
+"284","l_snfi_fds","yes_issues","Yes, with issues","Oui, avec des problèmes",NA,NA,NA,NA
+"285","l_snfi_fds","no_cannot","No, cannot do","Non, ne peut pas",NA,NA,NA,NA
+"286","l_snfi_fds","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"287","l_snfi_fds","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"288",NA,NA,NA,NA,NA,NA,NA,NA
+"289","l_snfi_fds_sleeping_issue","lack_materials","Insufficient essential household items for sleeping (bedding, mattresses/mats, bednets)","Manque d'articles ménagers essentiels pour dormir (literie, matelas/matelas, moustiquaires)",NA,NA,NA,NA
+"290","l_snfi_fds_sleeping_issue","lack_space","Insufficient space","Espace insuffisant",NA,NA,NA,NA
+"291","l_snfi_fds_sleeping_issue","unsafe_space","Unsafe space","Espace non sécurisé",NA,NA,NA,NA
+"292","l_snfi_fds_sleeping_issue","inadequate_space","Inadequate space for sleeping (leaking during rain, noisy space, space not meant for sleeping)","Espace inadéquat pour dormir (fuite en cas de pluie, espace bruyant, espace non destiné à dormir)",NA,NA,NA,NA
+"293","l_snfi_fds_sleeping_issue","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"294","l_snfi_fds_sleeping_issue","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"295",NA,NA,NA,NA,NA,NA,NA,NA
+"296","l_snfi_fds_storing_issue","lack_containers_water","Lack of containers/damaged containers to store water","Manque de récipients ou récipients endommagés pour le stockage de l'eau",NA,NA,NA,NA
+"297","l_snfi_fds_storing_issue","lack_containers_food","Lack of containers/damaged containers to store food","Manque de récipients ou récipients endommagés pour stocker la nourriture",NA,NA,NA,NA
+"298","l_snfi_fds_storing_issue","lack_space_water","Lack of space to store water","Manque d'espace pour stocker l'eau",NA,NA,NA,NA
+"299","l_snfi_fds_storing_issue","lack_space_food","Lack of space to store food","Manque d'espace pour stocker la nourriture",NA,NA,NA,NA
+"300","l_snfi_fds_storing_issue","cannot_store_safely","Can’t store food safely / it goes bad easily","Impossibilité de stocker les aliments en toute sécurité / ils se détériorent facilement",NA,NA,NA,NA
+"301","l_snfi_fds_storing_issue","other","Other (specify)","Autre (précisez)",NA,NA,NA,NA
+"302","l_snfi_fds_storing_issue","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"303",NA,NA,NA,NA,NA,NA,NA,NA
+"304","l_snfi_fds_personal_hygiene_issue","lack_materials","Insufficient essential household items for hygiene (soap, etc.)","Manque d'articles ménagers essentiels à l'hygiène (savon, etc.)",NA,NA,NA,NA
+"305","l_snfi_fds_personal_hygiene_issue","lack_space","Insufficient space (lack of privacy, partitions)","Espace insuffisant (manque d'intimité, cloisons)",NA,NA,NA,NA
+"306","l_snfi_fds_personal_hygiene_issue","inadequate_space","Inadequate space (not covered space, leaks when it rains, space not meant for washing)","Espace inadéquat (espace non couvert, fuites lorsqu'il pleut, espace non destiné à la toilette)",NA,NA,NA,NA
+"307","l_snfi_fds_personal_hygiene_issue","unsafe_space","Unsafe space","Espace non sécurisé",NA,NA,NA,NA
+"308","l_snfi_fds_personal_hygiene_issue","no_facility","No hygiene facility within the shelter","Pas d'installation d'hygiène dans l'abri",NA,NA,NA,NA
+"309","l_snfi_fds_personal_hygiene_issue","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"310","l_snfi_fds_personal_hygiene_issue","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"311",NA,NA,NA,NA,NA,NA,NA,NA
+"312","l_wash_drinking_water_source","piped_dwelling","Piped into dwelling","Raccordement par canalisation à la maison",NA,NA,NA,NA
+"313","l_wash_drinking_water_source","piped_compound","Piped into compound, yard or plot","Raccordement par canalisation dans l'enceinte, la cour ou le terrain",NA,NA,NA,NA
+"314","l_wash_drinking_water_source","piped_neighbour","Piped to neighbour","Raccordement par canalisation à la maison du voisin",NA,NA,NA,NA
+"315","l_wash_drinking_water_source","tap","Public tap/standpipe","Robinet public ou borne-fontaine",NA,NA,NA,NA
+"316","l_wash_drinking_water_source","borehole","Borehole or tubewell","Puits de forage ou puits tubulaire",NA,NA,NA,NA
+"317","l_wash_drinking_water_source","protected_well","Protected well","Puits protégé",NA,NA,NA,NA
+"318","l_wash_drinking_water_source","unprotected_well","Unprotected well","Puits non protégé",NA,NA,NA,NA
+"319","l_wash_drinking_water_source","protected_spring","Protected spring","Source protégée",NA,NA,NA,NA
+"320","l_wash_drinking_water_source","unprotected_spring","Unprotected spring","Source non protégée",NA,NA,NA,NA
+"321","l_wash_drinking_water_source","rainwater_collection","Rainwater collection","Collecte d'eau de pluie",NA,NA,NA,NA
+"322","l_wash_drinking_water_source","tank_truck","Tanker-truck","Camion-citerne",NA,NA,NA,NA
+"323","l_wash_drinking_water_source","cart_tank","Cart with small tank / drum","Chariot avec petit réservoir / baril",NA,NA,NA,NA
+"324","l_wash_drinking_water_source","kiosk","Water kiosk","Kiosque à eau",NA,NA,NA,NA
+"325","l_wash_drinking_water_source","bottled_water","Bottled water","Eau en bouteille",NA,NA,NA,NA
+"326","l_wash_drinking_water_source","sachet_water","Sachet water","Sachet d'eau / eau en sachet",NA,NA,NA,NA
+"327","l_wash_drinking_water_source","surface_water","Surface water (river, dam, lake, pond, stream, canal, irrigation channel)","Eau de surface (rivière, barrage, lac, étang, ruisseau, canal, canal d'irrigation)",NA,NA,NA,NA
+"328","l_wash_drinking_water_source","other","Other (specify)","Autre (veuillez préciser)",NA,NA,NA,NA
+"329","l_wash_drinking_water_source","dnk","Don’t know","Ne sait pas",NA,NA,NA,NA
+"330","l_wash_drinking_water_source","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"331",NA,NA,NA,NA,NA,NA,NA,NA
+"332","l_wash_drinking_water_time_yn","water_on_premises","Members do not collect (water on premises)","Les membres ne collectent pas l'eau (eau sur place)",NA,NA,NA,NA
+"333","l_wash_drinking_water_time_yn","number_minutes","Number of minutes (integer)","Nombre de minutes (entier)",NA,NA,NA,NA
+"334","l_wash_drinking_water_time_yn","dnk","Don’t know","Ne sait pas",NA,NA,NA,NA
+"335","l_wash_drinking_water_time_yn","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"336",NA,NA,NA,NA,NA,NA,NA,NA
+"337","l_wash_drinking_water_time_sl","under_30_min","30 minutes or less","30 minutes ou moins",NA,NA,NA,NA
+"338","l_wash_drinking_water_time_sl","30min_1hr","More than 30 minutes, but less than 1 hour","Plus de 30 minutes, mais moins d'une heure",NA,NA,NA,NA
+"339","l_wash_drinking_water_time_sl","more_than_1hr","More than 1 hour","Plus d'une heure",NA,NA,NA,NA
+"340","l_wash_drinking_water_time_sl","dnk","Don’t know","Je ne sais pas",NA,NA,NA,NA
+"341","l_wash_drinking_water_time_sl","pnta","Prefer not to answer","Je préfère ne pas répondre",NA,NA,NA,NA
+"342",NA,NA,NA,NA,NA,NA,NA,NA
+"343","l_wash_drinking_water_quantity","never","Never (0 times)","Jamais (0 fois)",NA,NA,NA,NA
+"344","l_wash_drinking_water_quantity","rarely","Rarely (1–2 times)","Rarement (1–2 fois)",NA,NA,NA,NA
+"345","l_wash_drinking_water_quantity","sometimes","Sometimes (3–10 times)","Parfois (3–10 fois)",NA,NA,NA,NA
+"346","l_wash_drinking_water_quantity","often","Often (11-20 times)","Souvent (11-20 fois)",NA,NA,NA,NA
+"347","l_wash_drinking_water_quantity","always","Always (more than 20 times)","Toujours (plus de 20 fois)",NA,NA,NA,NA
+"348","l_wash_drinking_water_quantity","dnk","Don’t know","Ne sait pas",NA,NA,NA,NA
+"349","l_wash_drinking_water_quantity","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"350",NA,NA,NA,NA,NA,NA,NA,NA
+"351","l_wash_sanitation_facility","flush_piped_sewer","Flush to piped sewer system","Chasse d'eau raccordée au système d'égout canalisé",NA,NA,NA,NA
+"352","l_wash_sanitation_facility","flush_septic_tank","Flush to septic tank","Chasse d'eau dans une fosse septique",NA,NA,NA,NA
+"353","l_wash_sanitation_facility","flush_pit_latrine","Flush to pit latrine","Chasse d'eau dans une latrine à fosse",NA,NA,NA,NA
+"354","l_wash_sanitation_facility","flush_open_drain","Flush to open drain","Chasse d'eau dans un égout ouvert",NA,NA,NA,NA
+"355","l_wash_sanitation_facility","flush_elsewhere","Flush to elsewhere","Chasse d'eau vers un autre endroit",NA,NA,NA,NA
+"356","l_wash_sanitation_facility","flush_dnk_where","Flush to don’t know where","Chasse d'eau vers je ne sais où",NA,NA,NA,NA
+"357","l_wash_sanitation_facility","pit_latrine_slab","Pit latrine with slab","Latrines à fosse avec dalle",NA,NA,NA,NA
+"358","l_wash_sanitation_facility","pit_latrine_wo_slab","Pit latrine without slab / open pit","Latrines à fosse sans dalle / fosse ouverte",NA,NA,NA,NA
+"359","l_wash_sanitation_facility","compost","Composting toilet","Toilettes à compostage",NA,NA,NA,NA
+"360","l_wash_sanitation_facility","plastic_bag","Plastic Bag","Sac en plastique",NA,NA,NA,NA
+"361","l_wash_sanitation_facility","bucket","Bucket","Seau",NA,NA,NA,NA
+"362","l_wash_sanitation_facility","hanging_toilet","Hanging toilet/hanging latrine","Toilettes suspendues / latrines suspendues",NA,NA,NA,NA
+"363","l_wash_sanitation_facility","none","No facility/bush/field/open defecation","Pas d'installation / buisson / champ",NA,NA,NA,NA
+"364","l_wash_sanitation_facility","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"365","l_wash_sanitation_facility","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"366","l_wash_sanitation_facility","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"367","l_wash_sanitation_facility","ventilated_pit_latrine_slab","Ventilated improved pit latrine (with slab)","Latrines améliorées à fosse ventilée (avec dalle)",NA,NA,NA,NA
+"368","l_wash_sanitation_facility","twin_pit_latrine_slab","Twin pit latrine with slab","Latrines à double fosse avec dalle",NA,NA,NA,NA
+"369","l_wash_sanitation_facility","container","Container based sanitation","Toilettes amovibles avec conteneur",NA,NA,NA,NA
+"370",NA,NA,NA,NA,NA,NA,NA,NA
+"371","l_wash_handwashing_facility","available","Fixed or mobile handwashing place in dwelling/yard/plot","Dispositif de lavage des mains fixe ou mobile dans l'habitation/la cour/le terrain",NA,NA,NA,NA
+"372","l_wash_handwashing_facility","none","No handwashing place in dwelling/yard/plot","Pas d'endroit pour le lavage des mains dans l'habitation/la cour/le terrain",NA,NA,NA,NA
+"373","l_wash_handwashing_facility","no_permission","No permission to see","Pas la permission de voir",NA,NA,NA,NA
+"374","l_wash_handwashing_facility","other","Other reason (specify)","Autre raison (précisez)",NA,NA,NA,NA
+"375",NA,NA,NA,NA,NA,NA,NA,NA
+"376","l_wash_handwashing_facility_observed_water","water_available","Water is available","L'eau est disponible",NA,NA,NA,NA
+"377","l_wash_handwashing_facility_observed_water","water_not_available","Water is not available","L'eau n'est pas disponible",NA,NA,NA,NA
+"378",NA,NA,NA,NA,NA,NA,NA,NA
+"379","l_wash_handwashing_facility_observed_soap","soap_available","Soap or detergent available","Le savon ou détergent est disponible",NA,NA,NA,NA
+"380","l_wash_handwashing_facility_observed_soap","soap_not_available","Soap or detergent not available","Le savon ou détergent n'est pas disponible",NA,NA,NA,NA
+"381","l_wash_handwashing_facility_observed_soap","alternative_available","(Insert other common products for the context, e.g. Ash / Mud / Sand)","(Ajouter d'autres produits communs dans le contexte, ex, Cendre / Boue / Sable)",NA,NA,NA,NA
+"382",NA,NA,NA,NA,NA,NA,NA,NA
+"383","l_wash_handwashing_facility_reported","fixed_dwelling","Fixed facility reported (sink/tap) in dwelling","Dispositif fixe rapporté (lavabo/robinet) dans l'habitation",NA,NA,NA,NA
+"384","l_wash_handwashing_facility_reported","fixed_yard","Fixed facility reported (sink/tap) in yard/plot","Dispositif fixe rapporté (lavabo/robinet) dans la cour/le terrain",NA,NA,NA,NA
+"385","l_wash_handwashing_facility_reported","mobile","Mobile object reported (bucket/jug/kettle)","Objet mobile signalé (seau/cruche/bouilloire)",NA,NA,NA,NA
+"386","l_wash_handwashing_facility_reported","none","No handwashing place in dwelling/yard/plot","Pas d'endroit pour le lavage des mains dans l'habitation/la cour/le terrain",NA,NA,NA,NA
+"387","l_wash_handwashing_facility_reported","other","Other (specify)","Autre (précisez)",NA,NA,NA,NA
+"388","l_wash_handwashing_facility_reported","dnk","Don't know","Ne sais pas",NA,NA,NA,NA
+"389","l_wash_handwashing_facility_reported","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"390",NA,NA,NA,NA,NA,NA,NA,NA
+"391","l_wash_soap_observed","yes_soap_shown","Yes (soap is shown)","Oui (le savon est montré)",NA,NA,NA,NA
+"392","l_wash_soap_observed","yes_soap_not_shown","Yes (soap is not shown)","Oui (le savon n'est pas montré)",NA,NA,NA,NA
+"393","l_wash_soap_observed","no","No","Non",NA,NA,NA,NA
+"394","l_wash_soap_observed","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"395","l_wash_soap_observed","pnta","Prefer no to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"396",NA,NA,NA,NA,NA,NA,NA,NA
+"397","l_wash_soap_type","soap","Bar or Liquid soap","Savon solide ou liquide",NA,NA,NA,NA
+"398","l_wash_soap_type","detergent","Detergent (Powder / Liquid / Paste)","Détergent (poudre / liquide / pâte)",NA,NA,NA,NA
+"399","l_wash_soap_type","ash_mud_sand","Ash / Mud / Sand","Cendre / Boue / Sable",NA,NA,NA,NA
+"400","l_wash_soap_type","other","Other (specify)","Autre (précisez)",NA,NA,NA,NA
+"401","l_wash_soap_type","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"402","l_wash_soap_type","pnta","Prefer no to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"403",NA,NA,NA,NA,NA,NA,NA,NA
+"404","l_health_ind_healthcare_needed_type","preventative_consultation","Preventative consultation / check-up","Consultation / bilan de santé préventif",NA,NA,NA,NA
+"405","l_health_ind_healthcare_needed_type","consultation_acute","Consultation or drugs for acute illness (fever, diarrhoea, cough, etc.)","Consultation ou médicaments pour les maladies aiguës (fièvre, diarrhée, toux, etc.)",NA,NA,NA,NA
+"406","l_health_ind_healthcare_needed_type","consultation_chronic","Consultation or drugs for chronic illness (diabetes, hypertension, etc.)","Consultation ou médicaments pour les maladies chroniques (diabète, hypertension, etc.)",NA,NA,NA,NA
+"407","l_health_ind_healthcare_needed_type","trauma","Trauma care (injury, accident, conflict-related wounds)","Soins de traumatologie (blessures, accidents, blessures liées à un conflit)",NA,NA,NA,NA
+"408","l_health_ind_healthcare_needed_type","elective_surgery","Elective, non-life saving surgery","Chirurgie non urgente et non vitale",NA,NA,NA,NA
+"409","l_health_ind_healthcare_needed_type","emergency_surgery","Emergency, life saving surgery","Chirurgie d'urgence vitale",NA,NA,NA,NA
+"410","l_health_ind_healthcare_needed_type","natal_services","Ante-natal or post-natal services","Services prénatals ou postnatals",NA,NA,NA,NA
+"411","l_health_ind_healthcare_needed_type","safe_delivery","Safe delivery services","Services d'accouchement sans risque",NA,NA,NA,NA
+"412","l_health_ind_healthcare_needed_type","other_specialized_services","[Other specialized services (to be contextualized by countries)]","[Autres services spécialisés (à adapter au contexte des pays)]",NA,NA,NA,NA
+"413","l_health_ind_healthcare_needed_type","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"414","l_health_ind_healthcare_needed_type","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"415","l_health_ind_healthcare_needed_type","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"416",NA,NA,NA,NA,NA,NA,NA,NA
+"417","l_prot_perceived_risk","never","Never","Jamais",NA,NA,NA,NA
+"418","l_prot_perceived_risk","once_or_twice","Just once or twice","Une ou deux fois seulement",NA,NA,NA,NA
+"419","l_prot_perceived_risk","several_times","Several times","Plusieurs fois",NA,NA,NA,NA
+"420","l_prot_perceived_risk","always","Always","Toujours",NA,NA,NA,NA
+"421","l_prot_perceived_risk","dnk","Don't Know","Ne sait pas",NA,NA,NA,NA
+"422","l_prot_perceived_risk","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"423",NA,NA,NA,NA,NA,NA,NA,NA
+"424","l_energy_lighting_source","electricity","Electricity (including solar panels)","Électricité (y compris les panneaux solaires)",NA,NA,NA,NA
+"425","l_energy_lighting_source","solar_flashlight","Solar-powered lantern or flashlight","Lanterne / lampe de poche à énergie solaire",NA,NA,NA,NA
+"426","l_energy_lighting_source","rechargeable_flashlight","Rechargeable flashlight, mobile, torch or lantern","Lampe de poche, mobile, lampe-torche ou lanterne rechargeable",NA,NA,NA,NA
+"427","l_energy_lighting_source","battery_flashlight","Battery (dry-cells) powered flashlight, torch or lantern","Lampe de poche, torche ou lanterne alimentée par des piles (piles sèches)",NA,NA,NA,NA
+"428","l_energy_lighting_source","biogas","Biogas/LPG lamp","Lampe à biogaz/GPL",NA,NA,NA,NA
+"429","l_energy_lighting_source","gasoline","Gasoline/kerosene/paraffin/oil lamp","Lampe à essence/kérosène/paraffine/huile",NA,NA,NA,NA
+"430","l_energy_lighting_source","candle","Candle","Bougie",NA,NA,NA,NA
+"431","l_energy_lighting_source","open_fire","Open fire / three stones stove","Feu ouvert / poêle à trois pierres",NA,NA,NA,NA
+"432","l_energy_lighting_source","none","No light source at all","Aucune source de lumière",NA,NA,NA,NA
+"433","l_energy_lighting_source","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"434","l_energy_lighting_source","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"435","l_energy_lighting_source","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"436",NA,NA,NA,NA,NA,NA,NA,NA
+"437","l_hlp_occupancy","ownership","Ownership","Propriétaire",NA,NA,NA,NA
+"438","l_hlp_occupancy","rented","Rented","En location",NA,NA,NA,NA
+"439","l_hlp_occupancy","hosted_free","Hosted for free","Hébergé gratuitement",NA,NA,NA,NA
+"440","l_hlp_occupancy","no_agreement","No occupancy agreement / squatting","Pas de contrat d'occupation / occupation illégale",NA,NA,NA,NA
+"441","l_hlp_occupancy","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"442","l_hlp_occupancy","dnk","Don’t know","Ne sait pas",NA,NA,NA,NA
+"443","l_hlp_occupancy","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"444",NA,NA,NA,NA,NA,NA,NA,NA
+"445","l_prot_child_sep_reason","left_married","Married and left the house","S'est marié(e) et a quitté le foyer",NA,NA,NA,NA
+"446","l_prot_child_sep_reason","left_employment","Left the house to seek employment","A quitté le domicile pour chercher un emploi",NA,NA,NA,NA
+"447","l_prot_child_sep_reason","left_study","Left the house to study","A quitté la maison pour étudier",NA,NA,NA,NA
+"448","l_prot_child_sep_reason","left_armed_groups","Left the house to engage with the army or armed groups","A quitté la maison pour s'engager dans l'armée ou les groupes armés",NA,NA,NA,NA
+"449","l_prot_child_sep_reason","stayed_in_origin","Stayed behind at the area of origin  (if displaced household)","Est resté(e) dans la région d'origine (si le ménage est déplacé)",NA,NA,NA,NA
+"450","l_prot_child_sep_reason","separated_displacement","Got separated during displacement (if displaced household)","A été séparé(e) pendant le déplacement (si le ménage est déplacé)",NA,NA,NA,NA
+"451","l_prot_child_sep_reason","kidnapped","Kidnapped/abducted","A été kidnappé(e)/enlevé(e)",NA,NA,NA,NA
+"452","l_prot_child_sep_reason","missing","Missing (left and no news)","A disparu (est parti(e) sans nouvelles)",NA,NA,NA,NA
+"453","l_prot_child_sep_reason","detained","Arbitrarily detained","Est détenu(e) arbitrairement",NA,NA,NA,NA
+"454","l_prot_child_sep_reason","other","Other (specify)","Autre (préciser)",NA,NA,NA,NA
+"455","l_prot_child_sep_reason","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"456","l_prot_child_sep_reason","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"457",NA,NA,NA,NA,NA,NA,NA,NA
+"458","l_difficulty","no_difficulty","No difficulty","Aucune difficulté",NA,NA,NA,NA
+"459","l_difficulty","some_difficulty","Some difficulty","Quelques difficultés",NA,NA,NA,NA
+"460","l_difficulty","lot_of_difficulty","A lot of difficulty","Beaucoup de difficultés",NA,NA,NA,NA
+"461","l_difficulty","cannot_do","Cannot do at all","Pas du tout",NA,NA,NA,NA
+"462","l_difficulty","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"463","l_difficulty","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"464",NA,NA,NA,NA,NA,NA,NA,NA
+"465","l_direct_proxy","yes_direct_itw","Yes [direct interview]","Oui [entretien direct]",NA,NA,NA,NA
+"466","l_direct_proxy","yes_interpreter","Yes [but with an interpreter; assistant]","Oui [mais avec un interprète ; assistant]",NA,NA,NA,NA
+"467","l_direct_proxy","no","No","Non",NA,NA,NA,NA
+"468",NA,NA,NA,NA,NA,NA,NA,NA
+"469","l_caregiver_available","yes","Yes","Oui",NA,NA,NA,NA
+"470","l_caregiver_available","no","No","Non",NA,NA,NA,NA
+"471",NA,NA,NA,NA,NA,NA,NA,NA
+"472","l_cm_expenditure_frequent","food","1. Food items","1. Produits alimentaires",NA,NA,NA,NA
+"473","l_cm_expenditure_frequent","rent","2. Rent for shelter and/or land","2. Loyer d'un logement et/ou d'un terrain",NA,NA,NA,NA
+"474","l_cm_expenditure_frequent","water","3. Water (from all sources combined)","3. Eau (toutes sources confondues)",NA,NA,NA,NA
+"475","l_cm_expenditure_frequent","nfi","4. Non-food household items for regular purchase (hygiene items, lightbulbs, etc.)","4. Articles ménagers non alimentaires à acheter régulièrement (articles d'hygiène, ampoules électriques, etc.)",NA,NA,NA,NA
+"476","l_cm_expenditure_frequent","utilities","5. Utilities (electricity or gas connections, etc.)","5. Services publics (raccordements à l'électricité ou au gaz, etc.)",NA,NA,NA,NA
+"477","l_cm_expenditure_frequent","fuel","6. Fuel (for cooking, for vehicles, etc.)","6. Carburant (pour la cuisine, pour les véhicules, etc.)",NA,NA,NA,NA
+"478","l_cm_expenditure_frequent","transportation","7. Transportation (not including vehicle fuel)","7. Transport (à l'exclusion du carburant pour les véhicules)",NA,NA,NA,NA
+"479","l_cm_expenditure_frequent","communication","8. Communications (phone airtime, Internet costs, etc.)","8. Communications (crédit de communication, coûts d'Internet, etc.)",NA,NA,NA,NA
+"480","l_cm_expenditure_frequent","other","9. All other frequent expenditures (please specify)","9. Toutes les autres dépenses fréquentes (à préciser)",NA,NA,NA,NA
+"481","l_cm_expenditure_frequent","none","10. My household did not spend any money over the last 30 days","10. Mon ménage n'a pas dépensé d'argent au cours des 30 derniers jours",NA,NA,NA,NA
+"482","l_cm_expenditure_frequent","dnk","11. Don't know","11. Ne sait pas",NA,NA,NA,NA
+"483","l_cm_expenditure_frequent","pnta","12. Prefer not to answer","12. Préfère ne pas répondre",NA,NA,NA,NA
+"484",NA,NA,NA,NA,NA,NA,NA,NA
+"485","l_cm_expenditure_infrequent","shelter","1. Shelter maintenance or repair","1. Entretien ou réparation d'abris",NA,NA,NA,NA
+"486","l_cm_expenditure_infrequent","nfi","2. Non-food household items for infrequent purchase (blankets, cooking pots, clothing, etc.)","2. Articles ménagers non alimentaires destinés à des achats peu fréquents (couvertures, casseroles, vêtements, etc.)",NA,NA,NA,NA
+"487","l_cm_expenditure_infrequent","health","3. Health-related expenditures (healthcare, medicine, etc.)","3. Dépenses liées à la santé (soins de santé, médicaments, etc.)",NA,NA,NA,NA
+"488","l_cm_expenditure_infrequent","education","4. Education-related expenditures (school fees, supplies, uniforms, etc.)","4. Dépenses liées à l'éducation (frais de scolarité, fournitures, uniformes, etc.)",NA,NA,NA,NA
+"489","l_cm_expenditure_infrequent","debt","5. Debt repayment","5. Remboursement d'une dette",NA,NA,NA,NA
+"490","l_cm_expenditure_infrequent","other","6. All other infrequent expenditures (please specify)","6. Toutes les autres dépenses peu fréquentes (préciser)",NA,NA,NA,NA
+"491","l_cm_expenditure_infrequent","none","7. My household did not spend any money over the last 6 months","7. Mon ménage n'a pas dépensé d'argent au cours des 6 derniers mois",NA,NA,NA,NA
+"492","l_cm_expenditure_infrequent","dnk","8. Don't know","8. Ne sait pas",NA,NA,NA,NA
+"493","l_cm_expenditure_infrequent","pnta","9. Prefer not to answer","9. Préfère ne pas répondre",NA,NA,NA,NA
+"494",NA,NA,NA,NA,NA,NA,NA,NA
+"495","l_etc_access_to_phone","none","None","Aucun",NA,NA,NA,NA
+"496","l_etc_access_to_phone","basic_phone","Basic phone (Calls, SMS, mobile money, no Internet access)","Téléphone basique (appels, sms, mobile money, pas d'accès internet)",NA,NA,NA,NA
+"497","l_etc_access_to_phone","feature_phone","Feature phone (basic internet access, some preinstalled apps, no app store, physical keyboard)","Téléphone numérique (accès basique à l'internet, applications pré-installées, pas de possibilité de télécharger des applications, clavier digital)",NA,NA,NA,NA
+"498","l_etc_access_to_phone","smartphone","Smartphone (touchscreen, app store, advanced internet access)","Smartphone (écran tactile, possibilité de télécharger des applications, accès internet avancé",NA,NA,NA,NA
+"499","l_etc_access_to_phone","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"500","l_etc_access_to_phone","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"501",NA,NA,NA,NA,NA,NA,NA,NA
+"502","l_etc_coverage_network_type","no_coverage","No coverage at all","Pas de couverture réseau du tout",NA,NA,NA,NA
+"503","l_etc_coverage_network_type","only_sms","Only sms","Couverture pour SMS uniquement",NA,NA,NA,NA
+"504","l_etc_coverage_network_type","only_voice","Only voice","Couverture pour appels uniquement",NA,NA,NA,NA
+"505","l_etc_coverage_network_type","voice_sms","Voice and SMS coverage","Couverture pour appels et SMS",NA,NA,NA,NA
+"506","l_etc_coverage_network_type","only_internet","Only internet","Couverture pour internet uniquement",NA,NA,NA,NA
+"507","l_etc_coverage_network_type","voice_sms_internet","Voice, SMS and Internet (apps, websites, services such as WhatsApp, Facebook, and other similar) coverage","Couverture pour appels, sms et internet (applications, sites internets, whatsapp, facebook et autres services similaires)",NA,NA,NA,NA
+"508","l_etc_coverage_network_type","dnk","Don't know","Ne sait pas",NA,NA,NA,NA
+"509","l_etc_coverage_network_type","pnta","Prefer not to answer","Préfère ne pas répondre",NA,NA,NA,NA
+"510","l_cm_income_source_cat","emergency","Emergency","Urgence",NA,NA,NA,NA
+"511","l_cm_income_source_cat","unstable","Unstable","Instable",NA,NA,NA,NA
+"512","l_cm_income_source_cat","stable","Stable","Stable",NA,NA,NA,NA
+"513","l_cm_income_source_cat","other","Other","Autre",NA,NA,NA,NA
+"514",NA,NA,NA,NA,NA,NA,NA,NA
+"515","l_aap_received_assistance","no","No","Non",NA,NA,NA,NA
+"516","l_aap_received_assistance","past_30d","Yes, in the past 30 days","Oui, dans les 30 derniers jours",NA,NA,NA,NA
+"517","l_aap_received_assistance","1_3_months","Yes, in the past 1-3 months","Oui, dans les 1-3 derniers mois",NA,NA,NA,NA
+"518","l_aap_received_assistance","4_6_months","Yes, in the past 4-6 months","Oui, dans les 4-6 derniers mois",NA,NA,NA,NA
+"519","l_aap_received_assistance","7_12_months","Yes, in the past 7-12 months","Oui, dans les 7-12 derniers mois",NA,NA,NA,NA
+"520","l_aap_received_assistance","undefined","Undefined","Non défini",NA,NA,NA,NA
+"521",NA,NA,NA,NA,NA,NA,NA,NA
+"522","l_snfi_shelter_issue_cat","none","No issue","Aucun problème",NA,NA,NA,NA
+"523","l_snfi_shelter_issue_cat","1_to_3","1 to 3 issues","1 à 3 problèmes",NA,NA,NA,NA
+"524","l_snfi_shelter_issue_cat","4_to_6","4 to 6 issues","4 à 6 problèmes",NA,NA,NA,NA
+"525","l_snfi_shelter_issue_cat","7_to_8","7 to 8 issues","7 à 8 problèmes",NA,NA,NA,NA
+"526","l_snfi_shelter_issue_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"527",NA,NA,NA,NA,NA,NA,NA,NA
+"528","l_snfi_shelter_issue_n","-999","Undefined","Non défini",NA,NA,NA,NA
+"529","l_snfi_shelter_issue_n","0","No issue","Aucun problème",NA,NA,NA,NA
+"530","l_snfi_shelter_issue_n","1","1 issue","1 problème",NA,NA,NA,NA
+"531","l_snfi_shelter_issue_n","2","2 issues","2 problèmes",NA,NA,NA,NA
+"532","l_snfi_shelter_issue_n","3","3 issues","3 problèmes",NA,NA,NA,NA
+"533","l_snfi_shelter_issue_n","4","4 issues","4 problèmes",NA,NA,NA,NA
+"534","l_snfi_shelter_issue_n","5","5 issues","5 problèmes",NA,NA,NA,NA
+"535","l_snfi_shelter_issue_n","6","6 issues","6 problèmes",NA,NA,NA,NA
+"536","l_snfi_shelter_issue_n","7","7 issues","7 problèmes",NA,NA,NA,NA
+"537","l_snfi_shelter_issue_n","8","8 issues","8 problèmes",NA,NA,NA,NA
+"538",NA,NA,NA,NA,NA,NA,NA,NA
+"539","l_snfi_shelter_type_cat","none","None","Aucun",NA,NA,NA,NA
+"540","l_snfi_shelter_type_cat","inadequate","Inadequate","Inadéquat",NA,NA,NA,NA
+"541","l_snfi_shelter_type_cat","adequate","Adequate","Adéquat",NA,NA,NA,NA
+"542","l_snfi_shelter_type_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"543",NA,NA,NA,NA,NA,NA,NA,NA
+"544","l_snfi_fds_cannot_cat","none","None","Aucune",NA,NA,NA,NA
+"545","l_snfi_fds_cannot_cat","1_task","1 task","1 tâche",NA,NA,NA,NA
+"546","l_snfi_fds_cannot_cat","2_to_3_tasks","2 to 3 tasks","2 à 3 tâches",NA,NA,NA,NA
+"547","l_snfi_fds_cannot_cat","4_to_5 tasks","4 to 5 tasks","4 à 5 tâches",NA,NA,NA,NA
+"548",NA,NA,NA,NA,NA,NA,NA,NA
+"549","l_wash_sharing_sanitation_facility_n_ind","50_and_above","50 and above","50 et plus",NA,NA,NA,NA
+"550","l_wash_sharing_sanitation_facility_n_ind","20_to_49","20 to 49","20 à 49",NA,NA,NA,NA
+"551","l_wash_sharing_sanitation_facility_n_ind","19_and_below","19 and below","19 et moins",NA,NA,NA,NA
+"552",NA,NA,NA,NA,NA,NA,NA,NA
+"553","l_wash_sharing_sanitation_facility_cat","shared","Shared","Partagé",NA,NA,NA,NA
+"554","l_wash_sharing_sanitation_facility_cat","not_shared","Not shared","Non partagé",NA,NA,NA,NA
+"555","l_wash_sharing_sanitation_facility_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"556","l_wash_sharing_sanitation_facility_cat","not_applicable","Not applicable","Non applicable",NA,NA,NA,NA
+"557",NA,NA,NA,NA,NA,NA,NA,NA
+"558","l_wash_sanitation_facility_cat","none","None","Aucune",NA,NA,NA,NA
+"559","l_wash_sanitation_facility_cat","unimproved","Unimproved","Non améliorée",NA,NA,NA,NA
+"560","l_wash_sanitation_facility_cat","improved","Improved","Améliorée",NA,NA,NA,NA
+"561","l_wash_sanitation_facility_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"562",NA,NA,NA,NA,NA,NA,NA,NA
+"563","l_wash_sanitation_facility_jmp_cat","open_defecation","Open defecation","Défécation à l’air libre",NA,NA,NA,NA
+"564","l_wash_sanitation_facility_jmp_cat","unimproved","Unimproved","Non améliorée",NA,NA,NA,NA
+"565","l_wash_sanitation_facility_jmp_cat","limited","Limited","Limité",NA,NA,NA,NA
+"566","l_wash_sanitation_facility_jmp_cat","basic","Basic","Basique",NA,NA,NA,NA
+"567","l_wash_sanitation_facility_jmp_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"568",NA,NA,NA,NA,NA,NA,NA,NA
+"569","l_wash_handwashing_facility_jmp_cat","no_facility","No facility","Pas de dispositif",NA,NA,NA,NA
+"570","l_wash_handwashing_facility_jmp_cat","limited","Limited","Limité",NA,NA,NA,NA
+"571","l_wash_handwashing_facility_jmp_cat","basic","Basic","Basique",NA,NA,NA,NA
+"572","l_wash_handwashing_facility_jmp_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"573",NA,NA,NA,NA,NA,NA,NA,NA
+"574","l_hlp_occupancy_cat","high_risk","High risk","Risque fort",NA,NA,NA,NA
+"575","l_hlp_occupancy_cat","medium_risk","Medium risk","Risque moyen",NA,NA,NA,NA
+"576","l_hlp_occupancy_cat","low_risk","Low risk","Risque faible",NA,NA,NA,NA
+"577","l_hlp_occupancy_cat","undefined","Undefined","Non defini",NA,NA,NA,NA
+"578",NA,NA,NA,NA,NA,NA,NA,NA
+"579","l_wash_drinking_water_time_threshold_cat","premises","Premises","Sur place",NA,NA,NA,NA
+"580","l_wash_drinking_water_time_threshold_cat","above_30min","Above 30 minutes","Au-dessus de 30 minutes",NA,NA,NA,NA
+"581","l_wash_drinking_water_time_threshold_cat","under_30min","Under 30 minutes","En dessous de 30 minutes",NA,NA,NA,NA
+"582","l_wash_drinking_water_time_threshold_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"583",NA,NA,NA,NA,NA,NA,NA,NA
+"584","l_wash_drinking_water_time_cat","premises","Premises","Sur place",NA,NA,NA,NA
+"585","l_wash_drinking_water_time_cat","under_30_min","Under 30 minutes","Moins de 30 minutes",NA,NA,NA,NA
+"586","l_wash_drinking_water_time_cat","30min_1hr","30 minutes to 1 hour","30 minutes à une heure",NA,NA,NA,NA
+"587","l_wash_drinking_water_time_cat","more_than_1hr","More than 1 hour","Plus d'une heure",NA,NA,NA,NA
+"588","l_wash_drinking_water_time_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"589",NA,NA,NA,NA,NA,NA,NA,NA
+"590","l_wash_drinking_water_source","surface_water","Surface water","Eau de surface",NA,NA,NA,NA
+"591","l_wash_drinking_water_source","unimproved","Unimproved","Non améliorée",NA,NA,NA,NA
+"592","l_wash_drinking_water_source","improved","Improved","Amélioré",NA,NA,NA,NA
+"593","l_wash_drinking_water_source","undefined","Undefined","Non défini",NA,NA,NA,NA
+"594",NA,NA,NA,NA,NA,NA,NA,NA
+"595","l_age_cat","(0, 5]","0-5","0-5",NA,NA,NA,NA
+"596","l_age_cat","(5, 10]","6-10","6-10",NA,NA,NA,NA
+"597","l_age_cat","(10,15]","10-15","10-15",NA,NA,NA,NA
+"598","l_age_cat","(15,20]","16-20","16-20",NA,NA,NA,NA
+"599","l_age_cat","(20,25]","21-25","21-25",NA,NA,NA,NA
+"600","l_age_cat","(25,30]","26-30","26-30",NA,NA,NA,NA
+"601","l_age_cat","(30,35]","31-35","31-35",NA,NA,NA,NA
+"602","l_age_cat","(35,40]","36-40","36-40",NA,NA,NA,NA
+"603","l_age_cat","(40,45]","41-45","41-45",NA,NA,NA,NA
+"604","l_age_cat","(45,50]","46-50","46-50",NA,NA,NA,NA
+"605","l_age_cat","(50,55]","51-55","51-55",NA,NA,NA,NA
+"606","l_age_cat","(55,60]","56-60","56-60",NA,NA,NA,NA
+"607","l_age_cat","(60,65]","61-65","61-65",NA,NA,NA,NA
+"608","l_age_cat","(65,70]","66-70","66-70",NA,NA,NA,NA
+"609","l_age_cat","(70,75]","71-75","71-75",NA,NA,NA,NA
+"610","l_age_cat","(75,80]","76-80","76-80",NA,NA,NA,NA
+"611","l_age_cat","(80,85]","81-85","81-85",NA,NA,NA,NA
+"612","l_age_cat","(85,90]","86-90","86-90",NA,NA,NA,NA
+"613","l_age_cat","(90,95]","91-95","91-95",NA,NA,NA,NA
+"614","l_age_cat","(95,100]","96-100","96-100",NA,NA,NA,NA
+"615","l_age_cat","(100,105]","101-105","101-105",NA,NA,NA,NA
+"616","l_age_cat","(105,110]","106-110","106-110",NA,NA,NA,NA
+"617","l_age_cat","(110,115]","111-115","111-115",NA,NA,NA,NA
+"618","l_age_cat","(115,120]","116-120","116-120",NA,NA,NA,NA
+"619",NA,NA,NA,NA,NA,NA,NA,NA
+"620","l_age_18_cat","below_18","17 and below","17 et moins",NA,NA,NA,NA
+"621","l_age_18_cat","above_18","18 and above","18 et plus",NA,NA,NA,NA
+"622",NA,NA,NA,NA,NA,NA,NA,NA
+"623","l_age_18_cat_d","1","18 and above","18 et plus",NA,NA,NA,NA
+"624","l_age_18_cat_d","0","17 and below","17 et moins",NA,NA,NA,NA
+"625",NA,NA,NA,NA,NA,NA,NA,NA
+"626","l_binary_0_1","0","0","0",NA,NA,NA,NA
+"627","l_binary_0_1","1","1","1",NA,NA,NA,NA
+"628",NA,NA,NA,NA,NA,NA,NA,NA
+"629","l_health_ind_healthcare_needed_cat","no_need","No, no need","Non, aucun besoin",NA,NA,NA,NA
+"630","l_health_ind_healthcare_needed_cat","yes_unmet_need","Yes, need was not met","Oui, les soins n'ont pas été obtenus",NA,NA,NA,NA
+"631","l_health_ind_healthcare_needed_cat","yes_met_need","Yes, need was met","Oui, les soins ont été obtenus",NA,NA,NA,NA
+"632",NA,NA,NA,NA,NA,NA,NA,NA
+"633","l_prot_child_sep_cat","none","No separated children","Aucun enfant séparé",NA,NA,NA,NA
+"634","l_prot_child_sep_cat","at_least_one_very_severe","At least one very severe reason","Au moins une raison très grave",NA,NA,NA,NA
+"635","l_prot_child_sep_cat","at_least_one_severe","At least one severe reason","Au moins une raison grave",NA,NA,NA,NA
+"636","l_prot_child_sep_cat","at_least_one_non_severe","At least one non severe reason","Au moins une raison sans gravité",NA,NA,NA,NA
+"637","l_prot_child_sep_cat","undefined","Undefined","Non défini",NA,NA,NA,NA
+"638",NA,NA,NA,NA,NA,NA,NA,NA
+"639","l_1_to_5","1","1","1",NA,NA,NA,NA
+"640","l_1_to_5","2","2","2",NA,NA,NA,NA
+"641","l_1_to_5","3","3","3",NA,NA,NA,NA
+"642","l_1_to_5","4","4","4",NA,NA,NA,NA
+"643","l_1_to_5","5","4+","4+",NA,NA,NA,NA
+"644",NA,NA,NA,NA,NA,NA,NA,NA
+"645","l_0_to_1","0","0","0",NA,NA,NA,NA
+"646","l_0_to_1","1","1","1",NA,NA,NA,NA
+"647",NA,NA,NA,NA,NA,NA,NA,NA
+"648","l_etc_access_to_phone_best","none","None","Aucun",NA,NA,NA,NA
+"649","l_etc_access_to_phone_best","smartphone","Smartphone (touchscreen, app store, advanced internet access)","Smartphone (écran tactile, possibilité de télécharger des applications, accès internet avancé",NA,NA,NA,NA
+"650","l_etc_access_to_phone_best","feature_phone","Feature phone (basic internet access, some preinstalled apps, no app store, physical keyboard)","Téléphone numérique (accès basique à l'internet, applications pré-installées, pas de possibilité de télécharger des applications, clavier digital)",NA,NA,NA,NA
+"651","l_etc_access_to_phone_best","basic_phone","Basic phone (Calls, SMS, mobile money, no Internet access)","Téléphone basique (appels, sms, mobile money, pas d'accès internet)",NA,NA,NA,NA
+"652","l_etc_access_to_phone_best","undefined","Undefined","Non défini",NA,NA,NA,NA
+"653",NA,NA,NA,NA,NA,NA,NA,NA
+"654","l_etc_access_to_phone_coverage","no_coverage_or_no_phone","No coverage or no phone","Pas de couverture ou pas de téléphone",NA,NA,NA,NA
+"655","l_etc_access_to_phone_coverage","no_internet_or_basic_phone","No internet or basic phone","Pas d'internet ou téléhone basique",NA,NA,NA,NA
+"656","l_etc_access_to_phone_coverage","internet_feature_phone","Access to internet and feature phone","Accès à internet et à un téléphone numérique",NA,NA,NA,NA
+"657","l_etc_access_to_phone_coverage","internet_smartphone","Access to internet and smartphone","Accès à internet et à un smartphone",NA,NA,NA,NA
+"658","l_etc_access_to_phone_coverage","undefined","Undefined","Non défini",NA,NA,NA,NA
+"659",NA,NA,NA,NA,NA,NA,NA,NA
+"660","l_fsl_lcsi_cat","None","None","Aucune",NA,NA,NA,NA
+"661","l_fsl_lcsi_cat","Stress","Stress","Stress",NA,NA,NA,NA
+"662","l_fsl_lcsi_cat","Crisis","Crisis","Crise",NA,NA,NA,NA
+"663","l_fsl_lcsi_cat","Emergency","Emergency","Urgence",NA,NA,NA,NA
+"664",NA,NA,NA,NA,NA,NA,NA,NA
+"665","l_fsl_hhs_cat","No or Little","No or Little","Pas ou peu",NA,NA,NA,NA
+"666","l_fsl_hhs_cat","Moderate","Moderate","Modéré",NA,NA,NA,NA
+"667","l_fsl_hhs_cat","Severe","Severe","Sévère",NA,NA,NA,NA
+"668",NA,NA,NA,NA,NA,NA,NA,NA
+"669","l_fsl_hhs_cat_ipc","None","None","Aucun",NA,NA,NA,NA
+"670","l_fsl_hhs_cat_ipc","Little","Little","Léger",NA,NA,NA,NA
+"671","l_fsl_hhs_cat_ipc","Moderate","Moderate","Modéré",NA,NA,NA,NA
+"672","l_fsl_hhs_cat_ipc","Severe","Severe","Sévère",NA,NA,NA,NA
+"673","l_fsl_hhs_cat_ipc","Very severe","Very severe","Très sévère",NA,NA,NA,NA
+"674",NA,NA,NA,NA,NA,NA,NA,NA
+"675","l_0_to_6","0","0","0",NA,NA,NA,NA
+"676","l_0_to_6","1","1","1",NA,NA,NA,NA
+"677","l_0_to_6","2","2","2",NA,NA,NA,NA
+"678","l_0_to_6","3","3","3",NA,NA,NA,NA
+"679","l_0_to_6","4","4","4",NA,NA,NA,NA
+"680","l_0_to_6","5","5","5",NA,NA,NA,NA
+"681","l_0_to_6","6","6","6",NA,NA,NA,NA
+"682",NA,NA,NA,NA,NA,NA,NA,NA
+"683","l_fsl_rcsi_cat","No to Low","No to Low","Aucune ou faible",NA,NA,NA,NA
+"684","l_fsl_rcsi_cat","Medium","Medium","Moyen",NA,NA,NA,NA
+"685","l_fsl_rcsi_cat","High","High","Elevé",NA,NA,NA,NA
+"686",NA,NA,NA,NA,NA,NA,NA,NA
+"687","l_fsl_fcs_cat","Poor","Poor","Pauvre",NA,NA,NA,NA
+"688","l_fsl_fcs_cat","Borderline","Borderline","Limite",NA,NA,NA,NA
+"689","l_fsl_fcs_cat","Acceptable","Acceptable","Acceptable",NA,NA,NA,NA
+"690",NA,NA,NA,NA,NA,NA,NA,NA
+"691","l_fsl_phase","Phase 1 FC","Phase 1 FC","Phase 1 FC",NA,NA,NA,NA
+"692","l_fsl_phase","Phase 2 FC","Phase 2 FC","Phase 2 FC",NA,NA,NA,NA
+"693","l_fsl_phase","Phase 3 FC","Phase 3 FC","Phase 3 FC",NA,NA,NA,NA
+"694","l_fsl_phase","Phase 4 FC","Phase 4 FC","Phase 4 FC",NA,NA,NA,NA
+"695","l_fsl_phase","Phase 5 FC","Phase 5 FC","Phase 5 FC",NA,NA,NA,NA
+"696",NA,NA,NA,NA,NA,NA,NA,NA
+"697","l_fclcm_phase","Phase 1 FCLC","Phase 1 FCLC","Phase 1 FCLC",NA,NA,NA,NA
+"698","l_fclcm_phase","Phase 2 FCLC","Phase 2 FCLC","Phase 2 FCLC",NA,NA,NA,NA
+"699","l_fclcm_phase","Phase 3 FCLC","Phase 3 FCLC","Phase 3 FCLC",NA,NA,NA,NA
+"700","l_fclcm_phase","Phase 4 FCLC","Phase 4 FCLC","Phase 4 FCLC",NA,NA,NA,NA
+"701","l_fclcm_phase","Phase 5 FCLC","Phase 5 FCLC","Phase 5 FCLC",NA,NA,NA,NA
