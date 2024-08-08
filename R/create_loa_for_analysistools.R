@@ -1,4 +1,5 @@
 # spec analysistools
+library(tidyverse)
 loa <- read.csv("inputs/rawr/loa.csv")
 group_vars <- list("admin1", "hoh_gender", "hoh_age_cat")
 
@@ -20,3 +21,4 @@ me_loa <- expand_grid(me_loa, group_var = c(group_vars, NA_character_))
 me_loa <- me_loa |> 
   filter(group_var != analysis_var | is.na(group_var))
 readr::write_csv(me_loa[,-1] , "inputs/analysistools/loa.csv")
+
