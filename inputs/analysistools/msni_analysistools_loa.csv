@@ -1,0 +1,384 @@
+theme,analysis_var,analysis_type,indicator,na_rm,subset,recall,dataset,weighted,function_to_compose,r_package,analysis_var_numerator,analysis_var_denominator,group_var
+AAP-ETC,aap_received_assistance,prop_select_one,"% of households having received any assistance, by duration",yes,NA,NA,main,yes,add_received_assistance,humind,NA,NA,admin1
+AAP-ETC,aap_received_assistance,prop_select_one,"% of households having received any assistance, by duration",yes,NA,NA,main,yes,add_received_assistance,humind,NA,NA,hoh_gender
+AAP-ETC,aap_received_assistance,prop_select_one,"% of households having received any assistance, by duration",yes,NA,NA,main,yes,add_received_assistance,humind,NA,NA,hoh_age_cat
+AAP-ETC,aap_received_assistance,prop_select_one,"% of households having received any assistance, by duration",yes,NA,NA,main,yes,add_received_assistance,humind,NA,NA,NA
+AAP-ETC,etc_access_to_phone_best,prop_select_one,% of households by best type of phone accessed,yes,NA,NA,main,yes,add_access_to_phone_best,humind,NA,NA,admin1
+AAP-ETC,etc_access_to_phone_best,prop_select_one,% of households by best type of phone accessed,yes,NA,NA,main,yes,add_access_to_phone_best,humind,NA,NA,hoh_gender
+AAP-ETC,etc_access_to_phone_best,prop_select_one,% of households by best type of phone accessed,yes,NA,NA,main,yes,add_access_to_phone_best,humind,NA,NA,hoh_age_cat
+AAP-ETC,etc_access_to_phone_best,prop_select_one,% of households by best type of phone accessed,yes,NA,NA,main,yes,add_access_to_phone_best,humind,NA,NA,NA
+AAP-ETC,etc_access_to_phone_coverage,prop_select_one,% of households by category of the access to phone and network coverage,yes,NA,NA,main,yes,etc_access_to_phone_coverage,humind,NA,NA,admin1
+AAP-ETC,etc_access_to_phone_coverage,prop_select_one,% of households by category of the access to phone and network coverage,yes,NA,NA,main,yes,etc_access_to_phone_coverage,humind,NA,NA,hoh_gender
+AAP-ETC,etc_access_to_phone_coverage,prop_select_one,% of households by category of the access to phone and network coverage,yes,NA,NA,main,yes,etc_access_to_phone_coverage,humind,NA,NA,hoh_age_cat
+AAP-ETC,etc_access_to_phone_coverage,prop_select_one,% of households by category of the access to phone and network coverage,yes,NA,NA,main,yes,etc_access_to_phone_coverage,humind,NA,NA,NA
+Cash & markets,cm_income_source_salaried_n_prop,median,Median of income source proportion: Salaried work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_salaried_n_prop,median,Median of income source proportion: Salaried work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_salaried_n_prop,median,Median of income source proportion: Salaried work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_salaried_n_prop,median,Median of income source proportion: Salaried work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_casual_n_prop,median,Median of income source proportion: Casual work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_casual_n_prop,median,Median of income source proportion: Casual work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_casual_n_prop,median,Median of income source proportion: Casual work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_casual_n_prop,median,Median of income source proportion: Casual work,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_own_business_n_prop,median,Median of income source proportion: Own business or regular trade,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_own_business_n_prop,median,Median of income source proportion: Own business or regular trade,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_own_business_n_prop,median,Median of income source proportion: Own business or regular trade,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_own_business_n_prop,median,Median of income source proportion: Own business or regular trade,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_own_production_n_prop,median,Median of income source proportion: Own production,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_own_production_n_prop,median,Median of income source proportion: Own production,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_own_production_n_prop,median,Median of income source proportion: Own production,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_own_production_n_prop,median,Median of income source proportion: Own production,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_social_benefits_n_prop,median,Median of income source proportion: Government social benefits or assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_social_benefits_n_prop,median,Median of income source proportion: Government social benefits or assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_social_benefits_n_prop,median,Median of income source proportion: Government social benefits or assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_social_benefits_n_prop,median,Median of income source proportion: Government social benefits or assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_rent_n_prop,median,Median of income source proportion: Rent,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_rent_n_prop,median,Median of income source proportion: Rent,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_rent_n_prop,median,Median of income source proportion: Rent,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_rent_n_prop,median,Median of income source proportion: Rent,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_remittances_n_prop,median,Median of income source proportion: Remittances,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_remittances_n_prop,median,Median of income source proportion: Remittances,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_remittances_n_prop,median,Median of income source proportion: Remittances,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_remittances_n_prop,median,Median of income source proportion: Remittances,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_assistance_n_prop,median,Median of income source proportion: Humanitarian assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_assistance_n_prop,median,Median of income source proportion: Humanitarian assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_assistance_n_prop,median,Median of income source proportion: Humanitarian assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_assistance_n_prop,median,Median of income source proportion: Humanitarian assistance,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_other_n_prop,median,Median of income source proportion: Other,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_source_other_n_prop,median,Median of income source proportion: Other,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_other_n_prop,median,Median of income source proportion: Other,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_other_n_prop,median,Median of income source proportion: Other,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_total,median,Median of total income,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,admin1
+Cash & markets,cm_income_total,median,Median of total income,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_total,median,Median of total income,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_total,median,Median of total income,yes,NA,NA,main,yes,add_income_source_prop,humind,NA,NA,NA
+Cash & markets,cm_income_source_top1,prop_select_one,% of households by top 1  type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,admin1
+Cash & markets,cm_income_source_top1,prop_select_one,% of households by top 1  type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_top1,prop_select_one,% of households by top 1  type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_top1,prop_select_one,% of households by top 1  type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,NA
+Cash & markets,cm_income_source_top2,prop_select_one,% of households by top 2 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,admin1
+Cash & markets,cm_income_source_top2,prop_select_one,% of households by top 2 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_top2,prop_select_one,% of households by top 2 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_top2,prop_select_one,% of households by top 2 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,NA
+Cash & markets,cm_income_source_top3,prop_select_one,% of households by top 13 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,admin1
+Cash & markets,cm_income_source_top3,prop_select_one,% of households by top 13 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,hoh_gender
+Cash & markets,cm_income_source_top3,prop_select_one,% of households by top 13 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,hoh_age_cat
+Cash & markets,cm_income_source_top3,prop_select_one,% of households by top 13 type of sources of income,yes,NA,NA,main,yes,add_income_source_cat,humind,NA,NA,NA
+Demographics,ind_age_cat,prop_select_one,% of households by category of the age of the individual,yes,NA,NA,loop,yes,add_age_cat,humind,NA,NA,admin1
+Demographics,ind_age_cat,prop_select_one,% of households by category of the age of the individual,yes,NA,NA,loop,yes,add_age_cat,humind,NA,NA,hoh_gender
+Demographics,ind_age_cat,prop_select_one,% of households by category of the age of the individual,yes,NA,NA,loop,yes,add_age_cat,humind,NA,NA,hoh_age_cat
+Demographics,ind_age_cat,prop_select_one,% of households by category of the age of the individual,yes,NA,NA,loop,yes,add_age_cat,humind,NA,NA,NA
+Demographics,ind_age_18_cat,prop_select_one,% of households by category whether the individual is above or below 18,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,admin1
+Demographics,ind_age_18_cat,prop_select_one,% of households by category whether the individual is above or below 18,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,hoh_gender
+Demographics,ind_age_18_cat,prop_select_one,% of households by category whether the individual is above or below 18,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,hoh_age_cat
+Demographics,ind_age_18_cat,prop_select_one,% of households by category whether the individual is above or below 18,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,NA
+Demographics,ind_age_18_cat_d,prop_select_one,% of households by category whether the individual is above or below 18 - Dummy,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,admin1
+Demographics,ind_age_18_cat_d,prop_select_one,% of households by category whether the individual is above or below 18 - Dummy,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,hoh_gender
+Demographics,ind_age_18_cat_d,prop_select_one,% of households by category whether the individual is above or below 18 - Dummy,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,hoh_age_cat
+Demographics,ind_age_18_cat_d,prop_select_one,% of households by category whether the individual is above or below 18 - Dummy,yes,NA,NA,loop,yes,add_age_18_cat,humind,NA,NA,NA
+Demographics,resp_age_cat,prop_select_one,% of interviews by age category of the enumerator,yes,NA,NA,main,no,add_age_cat,humind,NA,NA,admin1
+Demographics,resp_age_cat,prop_select_one,% of interviews by age category of the enumerator,yes,NA,NA,main,no,add_age_cat,humind,NA,NA,hoh_gender
+Demographics,resp_age_cat,prop_select_one,% of interviews by age category of the enumerator,yes,NA,NA,main,no,add_age_cat,humind,NA,NA,hoh_age_cat
+Demographics,resp_age_cat,prop_select_one,% of interviews by age category of the enumerator,yes,NA,NA,main,no,add_age_cat,humind,NA,NA,NA
+Demographics,hoh_age_cat,prop_select_one,% of households by category of the age of the head of household,yes,NA,NA,main,yes,add_age_cat,humind,NA,NA,admin1
+Demographics,hoh_age_cat,prop_select_one,% of households by category of the age of the head of household,yes,NA,NA,main,yes,add_age_cat,humind,NA,NA,hoh_gender
+Demographics,hoh_age_cat,prop_select_one,% of households by category of the age of the head of household,yes,NA,NA,main,yes,add_age_cat,humind,NA,NA,NA
+Demographics,hoh_age_18_cat,prop_select_one,% of households by category whether the head of household is above or below 18,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,admin1
+Demographics,hoh_age_18_cat,prop_select_one,% of households by category whether the head of household is above or below 18,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,hoh_gender
+Demographics,hoh_age_18_cat,prop_select_one,% of households by category whether the head of household is above or below 18,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,hoh_age_cat
+Demographics,hoh_age_18_cat,prop_select_one,% of households by category whether the head of household is above or below 18,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,NA
+Demographics,hoh_age_18_cat_d,prop_select_one,% of households by category whether the head of household is above or below 18 - Dummy,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,admin1
+Demographics,hoh_age_18_cat_d,prop_select_one,% of households by category whether the head of household is above or below 18 - Dummy,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,hoh_gender
+Demographics,hoh_age_18_cat_d,prop_select_one,% of households by category whether the head of household is above or below 18 - Dummy,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,hoh_age_cat
+Demographics,hoh_age_18_cat_d,prop_select_one,% of households by category whether the head of household is above or below 18 - Dummy,yes,NA,NA,main,yes,add_age_18_cat,humind,NA,NA,NA
+Education,NA,ratio,% of children 5 to 18 y.o. who attended school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_access_n,edu_schooling_age_n,admin1
+Education,NA,ratio,% of children 5 to 18 y.o. who attended school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_access_n,edu_schooling_age_n,hoh_gender
+Education,NA,ratio,% of children 5 to 18 y.o. who attended school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_access_n,edu_schooling_age_n,hoh_age_cat
+Education,NA,ratio,% of children 5 to 18 y.o. who attended school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_access_n,edu_schooling_age_n,NA
+Education,NA,ratio,% of children 5 to 18 y.o. who did not attend school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_no_access_n,edu_schooling_age_n,admin1
+Education,NA,ratio,% of children 5 to 18 y.o. who did not attend school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_no_access_n,edu_schooling_age_n,hoh_gender
+Education,NA,ratio,% of children 5 to 18 y.o. who did not attend school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_no_access_n,edu_schooling_age_n,hoh_age_cat
+Education,NA,ratio,% of children 5 to 18 y.o. who did not attend school or any early childhood education program at any time during the 2023-2024 school year,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main , add_loop_edu_access_d, add_loop_edu_access_d_to_main",humind,edu_no_access_n,edu_schooling_age_n,NA
+Education,edu_barrier_protection_n,prop_select_one,% of households by number of child protection barriers to education,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_barrier_protection_d,add_loop_edu_barrier_protection_d_to_main",humind,NA,NA,admin1
+Education,edu_barrier_protection_n,prop_select_one,% of households by number of child protection barriers to education,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_barrier_protection_d,add_loop_edu_barrier_protection_d_to_main",humind,NA,NA,hoh_gender
+Education,edu_barrier_protection_n,prop_select_one,% of households by number of child protection barriers to education,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_barrier_protection_d,add_loop_edu_barrier_protection_d_to_main",humind,NA,NA,hoh_age_cat
+Education,edu_barrier_protection_n,prop_select_one,% of households by number of child protection barriers to education,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_barrier_protection_d,add_loop_edu_barrier_protection_d_to_main",humind,NA,NA,NA
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to teacher's absence,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_teacher_n,edu_schooling_age_n,admin1
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to teacher's absence,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_teacher_n,edu_schooling_age_n,hoh_gender
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to teacher's absence,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_teacher_n,edu_schooling_age_n,hoh_age_cat
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to teacher's absence,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_teacher_n,edu_schooling_age_n,NA
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by armed groups,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_occupation_n,edu_schooling_age_n,admin1
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by armed groups,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_occupation_n,edu_schooling_age_n,hoh_gender
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by armed groups,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_occupation_n,edu_schooling_age_n,hoh_age_cat
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by armed groups,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_occupation_n,edu_schooling_age_n,NA
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to natural hazards,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_hazards_n,edu_schooling_age_n,admin1
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to natural hazards,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_hazards_n,edu_schooling_age_n,hoh_gender
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to natural hazards,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_hazards_n,edu_schooling_age_n,hoh_age_cat
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to natural hazards,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_hazards_n,edu_schooling_age_n,NA
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by displaced persons - Binary,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_displaced_n,edu_schooling_age_n,admin1
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by displaced persons - Binary,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_displaced_n,edu_schooling_age_n,hoh_gender
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by displaced persons - Binary,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_displaced_n,edu_schooling_age_n,hoh_age_cat
+Education,NA,ratio,% of children 5 to 18 y.o. whose education was disrupted due to the school being occupied by displaced persons - Binary,yes,Individuals aged 5 to 18,School-year 2023-2024,main,yes,"add_loop_edu_ind_age_corrected,add_loop_edu_ind_schooling_age_d_to_main,add_loop_edu_disrupted_d,add_loop_edu_disrupted_d_to_main",humind,edu_disrupted_displaced_n,edu_schooling_age_n,NA
+HLP,hlp_occupancy_cat,prop_select_one,% of households by risk of occupancy arrangement,yes,NA,NA,main,yes,add_occupancy_cat,humind,NA,NA,admin1
+HLP,hlp_occupancy_cat,prop_select_one,% of households by risk of occupancy arrangement,yes,NA,NA,main,yes,add_occupancy_cat,humind,NA,NA,hoh_gender
+HLP,hlp_occupancy_cat,prop_select_one,% of households by risk of occupancy arrangement,yes,NA,NA,main,yes,add_occupancy_cat,humind,NA,NA,hoh_age_cat
+HLP,hlp_occupancy_cat,prop_select_one,% of households by risk of occupancy arrangement,yes,NA,NA,main,yes,add_occupancy_cat,humind,NA,NA,NA
+Protection,prot_child_sep_cat,prop_select_one,"% of households with separated children, by severity of reason",yes,NA,NA,main,yes,add_child_sep_cat,humind,NA,NA,admin1
+Protection,prot_child_sep_cat,prop_select_one,"% of households with separated children, by severity of reason",yes,NA,NA,main,yes,add_child_sep_cat,humind,NA,NA,hoh_gender
+Protection,prot_child_sep_cat,prop_select_one,"% of households with separated children, by severity of reason",yes,NA,NA,main,yes,add_child_sep_cat,humind,NA,NA,hoh_age_cat
+Protection,prot_child_sep_cat,prop_select_one,"% of households with separated children, by severity of reason",yes,NA,NA,main,yes,add_child_sep_cat,humind,NA,NA,NA
+SNFI,snfi_fds_cannot_n,prop_select_one,% of households by number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,admin1
+SNFI,snfi_fds_cannot_n,prop_select_one,% of households by number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,hoh_gender
+SNFI,snfi_fds_cannot_n,prop_select_one,% of households by number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,hoh_age_cat
+SNFI,snfi_fds_cannot_n,prop_select_one,% of households by number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,NA
+SNFI,snfi_fds_cannot_cat,prop_select_one,% of households by category of the number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,admin1
+SNFI,snfi_fds_cannot_cat,prop_select_one,% of households by category of the number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,hoh_gender
+SNFI,snfi_fds_cannot_cat,prop_select_one,% of households by category of the number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,hoh_age_cat
+SNFI,snfi_fds_cannot_cat,prop_select_one,% of households by category of the number of domestic tasks that cannot be performed,yes,NA,NA,main,yes,add_fds_cannot_cat,humind,NA,NA,NA
+SNFI,snfi_shelter_issue_n,prop_select_one,% of households by number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,admin1
+SNFI,snfi_shelter_issue_n,prop_select_one,% of households by number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,hoh_gender
+SNFI,snfi_shelter_issue_n,prop_select_one,% of households by number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,hoh_age_cat
+SNFI,snfi_shelter_issue_n,prop_select_one,% of households by number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,NA
+SNFI,snfi_shelter_issue_cat,prop_select_one,% of households by category of the number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,admin1
+SNFI,snfi_shelter_issue_cat,prop_select_one,% of households by category of the number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,hoh_gender
+SNFI,snfi_shelter_issue_cat,prop_select_one,% of households by category of the number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,hoh_age_cat
+SNFI,snfi_shelter_issue_cat,prop_select_one,% of households by category of the number of shelter issues,yes,NA,NA,main,yes,add_shelter_issue_cat,humind,NA,NA,NA
+SNFI,snfi_shelter_type_cat,prop_select_one,% of households by category of the type of shelter,yes,NA,NA,main,yes,add_shelter_type_cat,humind,NA,NA,admin1
+SNFI,snfi_shelter_type_cat,prop_select_one,% of households by category of the type of shelter,yes,NA,NA,main,yes,add_shelter_type_cat,humind,NA,NA,hoh_gender
+SNFI,snfi_shelter_type_cat,prop_select_one,% of households by category of the type of shelter,yes,NA,NA,main,yes,add_shelter_type_cat,humind,NA,NA,hoh_age_cat
+SNFI,snfi_shelter_type_cat,prop_select_one,% of households by category of the type of shelter,yes,NA,NA,main,yes,add_shelter_type_cat,humind,NA,NA,NA
+WASH,wash_drinking_water_source_cat,prop_select_one,% of households by category of the drinking water source,yes,NA,NA,main,yes,add_drinking_water_source_cat,humind,NA,NA,admin1
+WASH,wash_drinking_water_source_cat,prop_select_one,% of households by category of the drinking water source,yes,NA,NA,main,yes,add_drinking_water_source_cat,humind,NA,NA,hoh_gender
+WASH,wash_drinking_water_source_cat,prop_select_one,% of households by category of the drinking water source,yes,NA,NA,main,yes,add_drinking_water_source_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_drinking_water_source_cat,prop_select_one,% of households by category of the drinking water source,yes,NA,NA,main,yes,add_drinking_water_source_cat,humind,NA,NA,NA
+WASH,wash_drinking_water_time_cat,prop_select_one,% of households by category of the time to fetch drinking water,yes,NA,NA,main,yes,add_drinking_water_time_cat,humind,NA,NA,admin1
+WASH,wash_drinking_water_time_cat,prop_select_one,% of households by category of the time to fetch drinking water,yes,NA,NA,main,yes,add_drinking_water_time_cat,humind,NA,NA,hoh_gender
+WASH,wash_drinking_water_time_cat,prop_select_one,% of households by category of the time to fetch drinking water,yes,NA,NA,main,yes,add_drinking_water_time_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_drinking_water_time_cat,prop_select_one,% of households by category of the time to fetch drinking water,yes,NA,NA,main,yes,add_drinking_water_time_cat,humind,NA,NA,NA
+WASH,wash_drinking_water_time_30min_cat,prop_select_one,% of households by threshold of the time to fetch drinking water (30 minutes threshold,yes,NA,NA,main,yes,add_drinking_water_time_threshold_cat,humind,NA,NA,admin1
+WASH,wash_drinking_water_time_30min_cat,prop_select_one,% of households by threshold of the time to fetch drinking water (30 minutes threshold,yes,NA,NA,main,yes,add_drinking_water_time_threshold_cat,humind,NA,NA,hoh_gender
+WASH,wash_drinking_water_time_30min_cat,prop_select_one,% of households by threshold of the time to fetch drinking water (30 minutes threshold,yes,NA,NA,main,yes,add_drinking_water_time_threshold_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_drinking_water_time_30min_cat,prop_select_one,% of households by threshold of the time to fetch drinking water (30 minutes threshold,yes,NA,NA,main,yes,add_drinking_water_time_threshold_cat,humind,NA,NA,NA
+WASH,wash_drinking_water_quality_jmp_cat,prop_select_one,% of households by JMP ladder category - Drinking water quality,yes,NA,NA,main,yes,add_drinking_water_quality_jmp_cat,humind,NA,NA,admin1
+WASH,wash_drinking_water_quality_jmp_cat,prop_select_one,% of households by JMP ladder category - Drinking water quality,yes,NA,NA,main,yes,add_drinking_water_quality_jmp_cat,humind,NA,NA,hoh_gender
+WASH,wash_drinking_water_quality_jmp_cat,prop_select_one,% of households by JMP ladder category - Drinking water quality,yes,NA,NA,main,yes,add_drinking_water_quality_jmp_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_drinking_water_quality_jmp_cat,prop_select_one,% of households by JMP ladder category - Drinking water quality,yes,NA,NA,main,yes,add_drinking_water_quality_jmp_cat,humind,NA,NA,NA
+WASH,wash_sanitation_facility_cat,prop_select_one,% of households by category of the type of sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_cat,humind,NA,NA,admin1
+WASH,wash_sanitation_facility_cat,prop_select_one,% of households by category of the type of sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_cat,humind,NA,NA,hoh_gender
+WASH,wash_sanitation_facility_cat,prop_select_one,% of households by category of the type of sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_sanitation_facility_cat,prop_select_one,% of households by category of the type of sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_cat,humind,NA,NA,NA
+WASH,wash_sharing_sanitation_facility_cat,prop_select_one,% of households by sharing status of the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_cat,humind,NA,NA,admin1
+WASH,wash_sharing_sanitation_facility_cat,prop_select_one,% of households by sharing status of the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_cat,humind,NA,NA,hoh_gender
+WASH,wash_sharing_sanitation_facility_cat,prop_select_one,% of households by sharing status of the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_sharing_sanitation_facility_cat,prop_select_one,% of households by sharing status of the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_cat,humind,NA,NA,NA
+WASH,wash_sharing_sanitation_facility_n_ind,prop_select_one,% of households by category of the number of individuals sharing the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_n_ind,humind,NA,NA,admin1
+WASH,wash_sharing_sanitation_facility_n_ind,prop_select_one,% of households by category of the number of individuals sharing the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_n_ind,humind,NA,NA,hoh_gender
+WASH,wash_sharing_sanitation_facility_n_ind,prop_select_one,% of households by category of the number of individuals sharing the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_n_ind,humind,NA,NA,hoh_age_cat
+WASH,wash_sharing_sanitation_facility_n_ind,prop_select_one,% of households by category of the number of individuals sharing the sanitation facility,yes,NA,NA,main,yes,add_sharing_sanitation_facility_n_ind,humind,NA,NA,NA
+WASH,wash_sanitation_facility_jmp_cat,prop_select_one,% of households by JMP ladder category - Sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_jmp_cat,humind,NA,NA,admin1
+WASH,wash_sanitation_facility_jmp_cat,prop_select_one,% of households by JMP ladder category - Sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_jmp_cat,humind,NA,NA,hoh_gender
+WASH,wash_sanitation_facility_jmp_cat,prop_select_one,% of households by JMP ladder category - Sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_jmp_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_sanitation_facility_jmp_cat,prop_select_one,% of households by JMP ladder category - Sanitation facility,yes,NA,NA,main,yes,add_sanitation_facility_jmp_cat,humind,NA,NA,NA
+WASH,wash_handwashing_facility_jmp_cat,prop_select_one,% of households by JMP ladder category – Handwashing facility,yes,NA,NA,main,yes,add_handwashing_facility_cat,humind,NA,NA,admin1
+WASH,wash_handwashing_facility_jmp_cat,prop_select_one,% of households by JMP ladder category – Handwashing facility,yes,NA,NA,main,yes,add_handwashing_facility_cat,humind,NA,NA,hoh_gender
+WASH,wash_handwashing_facility_jmp_cat,prop_select_one,% of households by JMP ladder category – Handwashing facility,yes,NA,NA,main,yes,add_handwashing_facility_cat,humind,NA,NA,hoh_age_cat
+WASH,wash_handwashing_facility_jmp_cat,prop_select_one,% of households by JMP ladder category – Handwashing facility,yes,NA,NA,main,yes,add_handwashing_facility_cat,humind,NA,NA,NA
+Health,NA,ratio,% of individuals without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_n,hh_size,admin1
+Health,NA,ratio,% of individuals without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_n,hh_size,hoh_gender
+Health,NA,ratio,% of individuals without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_n,hh_size,hoh_age_cat
+Health,NA,ratio,% of individuals without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_n,hh_size,NA
+Health,NA,ratio,% of individuals with unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_n,hh_size,admin1
+Health,NA,ratio,% of individuals with unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_n,hh_size,hoh_gender
+Health,NA,ratio,% of individuals with unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_n,hh_size,hoh_age_cat
+Health,NA,ratio,% of individuals with unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_n,hh_size,NA
+Health,NA,ratio,% of individuals with met healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_met_n,hh_size,admin1
+Health,NA,ratio,% of individuals with met healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_met_n,hh_size,hoh_gender
+Health,NA,ratio,% of individuals with met healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_met_n,hh_size,hoh_age_cat
+Health,NA,ratio,% of individuals with met healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_met_n,hh_size,NA
+Health,NA,ratio,% of individuals with a disability and without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_wgq_dis_n,hh_size,admin1
+Health,NA,ratio,% of individuals with a disability and without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_wgq_dis_n,hh_size,hoh_gender
+Health,NA,ratio,% of individuals with a disability and without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_wgq_dis_n,hh_size,hoh_age_cat
+Health,NA,ratio,% of individuals with a disability and without healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_no_wgq_dis_n,hh_size,NA
+Health,NA,ratio,% of individuals with a disability and unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_wgq_dis_n,hh_size,admin1
+Health,NA,ratio,% of individuals with a disability and unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_wgq_dis_n,hh_size,hoh_gender
+Health,NA,ratio,% of individuals with a disability and unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_wgq_dis_n,hh_size,hoh_age_cat
+Health,NA,ratio,% of individuals with a disability and unmet healthcare needs,yes,NA,NA,main,yes,"add_loop_healthcare_needed_cat,add_loop_healthcare_needed_cat_to_main",humind,health_ind_healthcare_needed_yes_unmet_wgq_dis_n,hh_size,NA
+MSNI framework,comp_health_score,prop_select_one,% of households by sectoral composite score - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,admin1
+MSNI framework,comp_health_score,prop_select_one,% of households by sectoral composite score - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,hoh_gender
+MSNI framework,comp_health_score,prop_select_one,% of households by sectoral composite score - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_health_score,prop_select_one,% of households by sectoral composite score - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,NA
+MSNI framework,comp_prot_score,prop_select_one,% of households by sectoral composite score - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,admin1
+MSNI framework,comp_prot_score,prop_select_one,% of households by sectoral composite score - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_gender
+MSNI framework,comp_prot_score,prop_select_one,% of households by sectoral composite score - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_prot_score,prop_select_one,% of households by sectoral composite score - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,NA
+MSNI framework,comp_prot_child_sep_cat,prop_select_one,% of households by sectoral sub-composite score - Protection - Child separation,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,admin1
+MSNI framework,comp_prot_child_sep_cat,prop_select_one,% of households by sectoral sub-composite score - Protection - Child separation,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_gender
+MSNI framework,comp_prot_child_sep_cat,prop_select_one,% of households by sectoral sub-composite score - Protection - Child separation,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_prot_child_sep_cat,prop_select_one,% of households by sectoral sub-composite score - Protection - Child separation,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,NA
+MSNI framework,comp_prot_score_concern,prop_select_one,% of households by sectoral sub-composite score - Protection - Perceived risks,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,admin1
+MSNI framework,comp_prot_score_concern,prop_select_one,% of households by sectoral sub-composite score - Protection - Perceived risks,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_gender
+MSNI framework,comp_prot_score_concern,prop_select_one,% of households by sectoral sub-composite score - Protection - Perceived risks,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_prot_score_concern,prop_select_one,% of households by sectoral sub-composite score - Protection - Perceived risks,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,NA
+MSNI framework,comp_edu_score,prop_select_one,% of households by sectoral composite score - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,admin1
+MSNI framework,comp_edu_score,prop_select_one,% of households by sectoral composite score - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_gender
+MSNI framework,comp_edu_score,prop_select_one,% of households by sectoral composite score - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_edu_score,prop_select_one,% of households by sectoral composite score - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,NA
+MSNI framework,comp_edu_score_disrupted,prop_select_one,% of households by sectoral sub-composite score - Education - Disruption,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,admin1
+MSNI framework,comp_edu_score_disrupted,prop_select_one,% of households by sectoral sub-composite score - Education - Disruption,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_gender
+MSNI framework,comp_edu_score_disrupted,prop_select_one,% of households by sectoral sub-composite score - Education - Disruption,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_edu_score_disrupted,prop_select_one,% of households by sectoral sub-composite score - Education - Disruption,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,NA
+MSNI framework,comp_edu_score_attendance,prop_select_one,% of households by sectoral sub-composite score - Education - Attendance,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,admin1
+MSNI framework,comp_edu_score_attendance,prop_select_one,% of households by sectoral sub-composite score - Education - Attendance,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_gender
+MSNI framework,comp_edu_score_attendance,prop_select_one,% of households by sectoral sub-composite score - Education - Attendance,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_edu_score_attendance,prop_select_one,% of households by sectoral sub-composite score - Education - Attendance,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,NA
+MSNI framework,comp_foodsec_score,prop_select_one,% of households by sectoral composite score - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,admin1
+MSNI framework,comp_foodsec_score,prop_select_one,% of households by sectoral composite score - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,hoh_gender
+MSNI framework,comp_foodsec_score,prop_select_one,% of households by sectoral composite score - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_foodsec_score,prop_select_one,% of households by sectoral composite score - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,NA
+MSNI framework,comp_wash_score_water_quantity,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quantity,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,admin1
+MSNI framework,comp_wash_score_water_quantity,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quantity,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_gender
+MSNI framework,comp_wash_score_water_quantity,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quantity,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_wash_score_water_quantity,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quantity,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,NA
+MSNI framework,comp_wash_score_water_quality,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quality,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,admin1
+MSNI framework,comp_wash_score_water_quality,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quality,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_gender
+MSNI framework,comp_wash_score_water_quality,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quality,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_wash_score_water_quality,prop_select_one,% of households by sectoral sub-composite score - WASH - Drinking water quality,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,NA
+MSNI framework,comp_wash_score_sanitation,prop_select_one,% of households by sectoral sub-composite score - WASH - Sanitation,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,admin1
+MSNI framework,comp_wash_score_sanitation,prop_select_one,% of households by sectoral sub-composite score - WASH - Sanitation,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_gender
+MSNI framework,comp_wash_score_sanitation,prop_select_one,% of households by sectoral sub-composite score - WASH - Sanitation,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_wash_score_sanitation,prop_select_one,% of households by sectoral sub-composite score - WASH - Sanitation,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,NA
+MSNI framework,comp_wash_score_hygiene,prop_select_one,% of households by sectoral sub-composite score - WASH - Hygiene,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,admin1
+MSNI framework,comp_wash_score_hygiene,prop_select_one,% of households by sectoral sub-composite score - WASH - Hygiene,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_gender
+MSNI framework,comp_wash_score_hygiene,prop_select_one,% of households by sectoral sub-composite score - WASH - Hygiene,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_wash_score_hygiene,prop_select_one,% of households by sectoral sub-composite score - WASH - Hygiene,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,NA
+MSNI framework,comp_snfi_score,prop_select_one,% of households by sectoral composite score - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_score,prop_select_one,% of households by sectoral composite score - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_score,prop_select_one,% of households by sectoral composite score - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_score,prop_select_one,% of households by sectoral composite score - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,comp_snfi_score_shelter_type_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter type,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_score_shelter_type_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter type,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_score_shelter_type_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter type,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_score_shelter_type_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter type,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,comp_snfi_score_shelter_issue_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter issues,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_score_shelter_issue_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter issues,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_score_shelter_issue_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter issues,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_score_shelter_issue_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Shelter issues,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,comp_snfi_score_occupancy_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Occupancy arrangement,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_score_occupancy_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Occupancy arrangement,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_score_occupancy_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Occupancy arrangement,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_score_occupancy_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Occupancy arrangement,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,comp_snfi_score_fds_cannot_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Functional domestic space,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_score_fds_cannot_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Functional domestic space,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_score_fds_cannot_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Functional domestic space,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_score_fds_cannot_cat,prop_select_one,% of households by sectoral sub-composite score - SNFI - Functional domestic space,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,comp_health_in_need,prop_select_one,% of households by sectoral composite - In need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,admin1
+MSNI framework,comp_health_in_need,prop_select_one,% of households by sectoral composite - In need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,hoh_gender
+MSNI framework,comp_health_in_need,prop_select_one,% of households by sectoral composite - In need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_health_in_need,prop_select_one,% of households by sectoral composite - In need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,NA
+MSNI framework,comp_prot_in_need,prop_select_one,% of households by sectoral composite - In need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,admin1
+MSNI framework,comp_prot_in_need,prop_select_one,% of households by sectoral composite - In need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_gender
+MSNI framework,comp_prot_in_need,prop_select_one,% of households by sectoral composite - In need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_prot_in_need,prop_select_one,% of households by sectoral composite - In need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,NA
+MSNI framework,comp_edu_in_need,prop_select_one,% of households by sectoral composite - In need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,admin1
+MSNI framework,comp_edu_in_need,prop_select_one,% of households by sectoral composite - In need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_gender
+MSNI framework,comp_edu_in_need,prop_select_one,% of households by sectoral composite - In need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_edu_in_need,prop_select_one,% of households by sectoral composite - In need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,NA
+MSNI framework,comp_foodsec_in_need,prop_select_one,% of households by sectoral composite - In need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,admin1
+MSNI framework,comp_foodsec_in_need,prop_select_one,% of households by sectoral composite - In need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,hoh_gender
+MSNI framework,comp_foodsec_in_need,prop_select_one,% of households by sectoral composite - In need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_foodsec_in_need,prop_select_one,% of households by sectoral composite - In need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,NA
+MSNI framework,comp_wash_in_need,prop_select_one,% of households by sectoral composite - In need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,admin1
+MSNI framework,comp_wash_in_need,prop_select_one,% of households by sectoral composite - In need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_gender
+MSNI framework,comp_wash_in_need,prop_select_one,% of households by sectoral composite - In need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_wash_in_need,prop_select_one,% of households by sectoral composite - In need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,NA
+MSNI framework,comp_snfi_in_need,prop_select_one,% of households by sectoral composite - In need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_in_need,prop_select_one,% of households by sectoral composite - In need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_in_need,prop_select_one,% of households by sectoral composite - In need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_in_need,prop_select_one,% of households by sectoral composite - In need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,comp_health_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,admin1
+MSNI framework,comp_health_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,hoh_gender
+MSNI framework,comp_health_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_health_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Health,yes,NA,NA,main,yes,add_comp_health,humind,NA,NA,NA
+MSNI framework,comp_prot_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,admin1
+MSNI framework,comp_prot_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_gender
+MSNI framework,comp_prot_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_prot_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Protection,yes,NA,NA,main,yes,add_comp_prot,humind,NA,NA,NA
+MSNI framework,comp_edu_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,admin1
+MSNI framework,comp_edu_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_gender
+MSNI framework,comp_edu_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_edu_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Education,yes,NA,NA,main,yes,add_comp_edu,humind,NA,NA,NA
+MSNI framework,comp_foodsec_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,admin1
+MSNI framework,comp_foodsec_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,hoh_gender
+MSNI framework,comp_foodsec_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_foodsec_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - Food security,yes,NA,NA,main,yes,add_comp_foodsec,humind,NA,NA,NA
+MSNI framework,comp_wash_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,admin1
+MSNI framework,comp_wash_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_gender
+MSNI framework,comp_wash_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_wash_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - WASH,yes,NA,NA,main,yes,add_comp_wash,humind,NA,NA,NA
+MSNI framework,comp_snfi_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,admin1
+MSNI framework,comp_snfi_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_gender
+MSNI framework,comp_snfi_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,hoh_age_cat
+MSNI framework,comp_snfi_in_acute_need,prop_select_one,% of households by sectoral composite - In acute need - SNFI,yes,NA,NA,main,yes,add_comp_snfi,humind,NA,NA,NA
+MSNI framework,msni_score,prop_select_one,% of households by Multi-Sectoral Needs Index (MSNI) score,yes,NA,NA,main,yes,add_msni,humind,NA,NA,admin1
+MSNI framework,msni_score,prop_select_one,% of households by Multi-Sectoral Needs Index (MSNI) score,yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_gender
+MSNI framework,msni_score,prop_select_one,% of households by Multi-Sectoral Needs Index (MSNI) score,yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_age_cat
+MSNI framework,msni_score,prop_select_one,% of households by Multi-Sectoral Needs Index (MSNI) score,yes,NA,NA,main,yes,add_msni,humind,NA,NA,NA
+MSNI framework,msni_in_need,prop_select_one,% of households in need (metric 1),yes,NA,NA,main,yes,add_msni,humind,NA,NA,admin1
+MSNI framework,msni_in_need,prop_select_one,% of households in need (metric 1),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_gender
+MSNI framework,msni_in_need,prop_select_one,% of households in need (metric 1),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_age_cat
+MSNI framework,msni_in_need,prop_select_one,% of households in need (metric 1),yes,NA,NA,main,yes,add_msni,humind,NA,NA,NA
+MSNI framework,msni_in_acute_need,prop_select_one,% of households in acute need (metric 2),yes,NA,NA,main,yes,add_msni,humind,NA,NA,admin1
+MSNI framework,msni_in_acute_need,prop_select_one,% of households in acute need (metric 2),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_gender
+MSNI framework,msni_in_acute_need,prop_select_one,% of households in acute need (metric 2),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_age_cat
+MSNI framework,msni_in_acute_need,prop_select_one,% of households in acute need (metric 2),yes,NA,NA,main,yes,add_msni,humind,NA,NA,NA
+MSNI framework,sector_in_need_n,mean,Average number of sectoral needs (metric 3),yes,NA,NA,main,yes,add_msni,humind,NA,NA,admin1
+MSNI framework,sector_in_need_n,mean,Average number of sectoral needs (metric 3),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_gender
+MSNI framework,sector_in_need_n,mean,Average number of sectoral needs (metric 3),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_age_cat
+MSNI framework,sector_in_need_n,mean,Average number of sectoral needs (metric 3),yes,NA,NA,main,yes,add_msni,humind,NA,NA,NA
+MSNI framework,sector_needs_profile,prop_select_one,% of households by sectoral needs profile (metric 4),yes,NA,NA,main,yes,add_msni,humind,NA,NA,admin1
+MSNI framework,sector_needs_profile,prop_select_one,% of households by sectoral needs profile (metric 4),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_gender
+MSNI framework,sector_needs_profile,prop_select_one,% of households by sectoral needs profile (metric 4),yes,NA,NA,main,yes,add_msni,humind,NA,NA,hoh_age_cat
+MSNI framework,sector_needs_profile,prop_select_one,% of households by sectoral needs profile (metric 4),yes,NA,NA,main,yes,add_msni,humind,NA,NA,NA
+Food security,fsl_lcsi_cat,prop_select_one,% of households by LCSI category - at least one used,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,admin1
+Food security,fsl_lcsi_cat,prop_select_one,% of households by LCSI category - at least one used,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,hoh_gender
+Food security,fsl_lcsi_cat,prop_select_one,% of households by LCSI category - at least one used,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,hoh_age_cat
+Food security,fsl_lcsi_cat,prop_select_one,% of households by LCSI category - at least one used,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,NA
+Food security,fsl_lcsi_cat_exhaust,prop_select_one,% of households by LCSI category - at least one used or exhausted,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,admin1
+Food security,fsl_lcsi_cat_exhaust,prop_select_one,% of households by LCSI category - at least one used or exhausted,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,hoh_gender
+Food security,fsl_lcsi_cat_exhaust,prop_select_one,% of households by LCSI category - at least one used or exhausted,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,hoh_age_cat
+Food security,fsl_lcsi_cat_exhaust,prop_select_one,% of households by LCSI category - at least one used or exhausted,yes,NA,NA,main,yes,add_lcsi,humind,NA,NA,NA
+Food security,fsl_hhs_score,prop_select_one,% of households by HHS score,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,admin1
+Food security,fsl_hhs_score,prop_select_one,% of households by HHS score,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,hoh_gender
+Food security,fsl_hhs_score,prop_select_one,% of households by HHS score,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,hoh_age_cat
+Food security,fsl_hhs_score,prop_select_one,% of households by HHS score,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,NA
+Food security,fsl_hhs_cat,prop_select_one,% of households by HHS category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,admin1
+Food security,fsl_hhs_cat,prop_select_one,% of households by HHS category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,hoh_gender
+Food security,fsl_hhs_cat,prop_select_one,% of households by HHS category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,hoh_age_cat
+Food security,fsl_hhs_cat,prop_select_one,% of households by HHS category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,NA
+Food security,fsl_hhs_cat_ipc,prop_select_one,% of households by HHS IPC category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,admin1
+Food security,fsl_hhs_cat_ipc,prop_select_one,% of households by HHS IPC category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,hoh_gender
+Food security,fsl_hhs_cat_ipc,prop_select_one,% of households by HHS IPC category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,hoh_age_cat
+Food security,fsl_hhs_cat_ipc,prop_select_one,% of households by HHS IPC category,yes,NA,NA,main,yes,add_hhs,humind,NA,NA,NA
+Food security,fsl_rcsi_score,mean,Mean of rCSI score,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,admin1
+Food security,fsl_rcsi_score,mean,Mean of rCSI score,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,hoh_gender
+Food security,fsl_rcsi_score,mean,Mean of rCSI score,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,hoh_age_cat
+Food security,fsl_rcsi_score,mean,Mean of rCSI score,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,NA
+Food security,fsl_rcsi_cat,prop_select_one,% of households by rCSI category,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,admin1
+Food security,fsl_rcsi_cat,prop_select_one,% of households by rCSI category,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,hoh_gender
+Food security,fsl_rcsi_cat,prop_select_one,% of households by rCSI category,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,hoh_age_cat
+Food security,fsl_rcsi_cat,prop_select_one,% of households by rCSI category,yes,NA,NA,main,yes,add_rcsi,humind,NA,NA,NA
+Food security,fsl_fcs_score,mean,Average of FCS score,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,admin1
+Food security,fsl_fcs_score,mean,Average of FCS score,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,hoh_gender
+Food security,fsl_fcs_score,mean,Average of FCS score,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,hoh_age_cat
+Food security,fsl_fcs_score,mean,Average of FCS score,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,NA
+Food security,fsl_fcs_cat,prop_select_one,% of households by FCS category,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,admin1
+Food security,fsl_fcs_cat,prop_select_one,% of households by FCS category,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,hoh_gender
+Food security,fsl_fcs_cat,prop_select_one,% of households by FCS category,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,hoh_age_cat
+Food security,fsl_fcs_cat,prop_select_one,% of households by FCS category,yes,NA,NA,main,yes,add_fcs,humind,NA,NA,NA
+Food security,fsl_fc_cell,mean,Mean of HCIM cell,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,admin1
+Food security,fsl_fc_cell,mean,Mean of HCIM cell,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,hoh_gender
+Food security,fsl_fc_cell,mean,Mean of HCIM cell,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,hoh_age_cat
+Food security,fsl_fc_cell,mean,Mean of HCIM cell,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,NA
+Food security,fsl_fc_phase,prop_select_one,% of households by HCIM FC Phase,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,admin1
+Food security,fsl_fc_phase,prop_select_one,% of households by HCIM FC Phase,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,hoh_gender
+Food security,fsl_fc_phase,prop_select_one,% of households by HCIM FC Phase,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,hoh_age_cat
+Food security,fsl_fc_phase,prop_select_one,% of households by HCIM FC Phase,yes,NA,NA,main,yes,add_fcm_phase,humind,NA,NA,NA

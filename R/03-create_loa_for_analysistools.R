@@ -1,7 +1,9 @@
 # spec analysistools
 library(tidyverse)
-loa <- read.csv("inputs/rawr/loa.csv")
-group_vars <- list("admin1", "hoh_gender", "hoh_age_cat")
+loa <- read.csv("inputs/rawr/loa.csv") |> 
+  select(-any_of("X")) |> 
+  filter(!duplicated(var))
+group_vars <- c("admin1", "hoh_gender", "hoh_age_cat")
 
 me_loa <- loa |> 
   rename(analysis_type = analysis,
@@ -14,11 +16,17 @@ me_loa <- loa |>
   mutate(analysis_type = case_when(analysis_type == "select_one" ~ "prop_select_one",
                                    analysis_type == "select_multiple" ~ "prop_select_multiple", 
                                    TRUE ~ analysis_type))
-me_loa <- expand_grid(me_loa, group_var = c(group_vars, NA_character_))
+group_var = c(group_vars, NA_character_)
+
+me_loa <- expand_grid(me_loa, group_var) 
 
 ## analysis_var and group_var cannot be similar
 
+
+
 me_loa <- me_loa |> 
-  filter(group_var != analysis_var | is.na(group_var))
-readr::write_csv(me_loa[,-1] , "inputs/analysistools/loa.csv")
+  mutate(similar_var = analysis_var == group_var) %>% 
+  filter(!similar_var | is.na(similar_var)) %>% 
+  select(-similar_var)
+readr::write_csv(me_loa, "inputs/analysistools/loa.csv")
 
