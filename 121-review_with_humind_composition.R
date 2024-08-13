@@ -5,9 +5,7 @@ if (!require("pacman")) install.packages("pacman")
 # Load and manage packages with pacman
 pacman::p_load(
     pak,
-    impactR.utils,
     arsenal,
-    humind,
     dplyr,
     purrr
 )
@@ -41,8 +39,8 @@ main <- dummy_raw_data$main
 
 # 2 read main et loop with indicators --------------------------------------------------------
 
-main_withind <- read.csv("outputs/rawr/main_with_errors.csv")
-loop_withind <- read.csv("outputs/rawr/loop_with_indicators.csv")
+main_to_review <- read.csv("outputs/rawr/main_with_errors.csv")
+loop_to_review <- read.csv("outputs/rawr/loop_with_indicators.csv")
 
 # 3 with out - copy paste de humind --------------------------------------------------------
 
@@ -210,5 +208,5 @@ main_with_indicators <- main_with_indicators |>
 # 4 arsenal::comparedf // summary::comparedf --------------------------------------------------------
 
 names(main_with_indicators) <- sub("/", ".", names(main_with_indicators))
-to_display <- summary(comparedf(main_with_indicators, main_withind, int.as.num = TRUE))
+to_display <- summary(comparedf(main_with_indicators, main_to_review, int.as.num = TRUE))
 to_display

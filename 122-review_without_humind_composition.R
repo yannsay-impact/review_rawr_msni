@@ -5,9 +5,7 @@ if (!require("pacman")) install.packages("pacman")
 # Load and manage packages with pacman
 pacman::p_load(
     pak,
-    impactR.utils,
     arsenal,
-    humind,
     dplyr,
     purrr,
     fuzzyjoin
@@ -42,8 +40,8 @@ main <- dummy_raw_data$main
 
 # 2 read main et loop with indicators --------------------------------------------------------
 
-main_withind_newnames <- read.csv("outputs/rawr/main_with_new_names_with_errors.csv")
-loop_withind <- read.csv("outputs/rawr/loop_with_indicators.csv")
+main_to_review <- read.csv("outputs/rawr/main_with_new_names_with_errors.csv")
+loop_to_review <- read.csv("outputs/rawr/loop_with_indicators.csv")
 
 # 3 with out - copy paste de humind --------------------------------------------------------
 
@@ -214,7 +212,7 @@ main_with_indicators <- main_with_indicators |>
 names(main_with_indicators) <- sub("/", ".", names(main_with_indicators))
 
 # Have a look at non shared variables
-res <- summary(comparedf(main_with_indicators, main_withind_newnames, int.as.num = TRUE))
+res <- summary(comparedf(main_with_indicators, main_to_review, int.as.num = TRUE))
 res <- res$vars.ns.table # list of non shared variables
 
 # Match non shared variables
@@ -247,5 +245,5 @@ names(main_with_indicators) <- ifelse(
 )
 
 # Back to comparedf
-res <- summary(comparedf(main_with_indicators, main_withind_newnames, int.as.num = TRUE))
+res <- summary(comparedf(main_with_indicators, main_to_review, int.as.num = TRUE))
 res
