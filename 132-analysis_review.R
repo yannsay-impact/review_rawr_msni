@@ -159,7 +159,7 @@ new_review_main_analysis$review_table %>%
 
 ## Other possible review problem weighted and un-weighted results are mixed together.
 ## I am using the weighted analysis from 131-analysis_with_analyistools.R
-review_only_weigthed_analysis <- readRDS("outputs/me/results_main_weigthed.RDS")
+review_only_weigthed_analysis <- readRDS("outputs/analysistools/results_main_weigthed.RDS")
 # 
 review3_binded_analysis <- results_to_review |> 
   full_join(select(review_only_weigthed_analysis$results_table,

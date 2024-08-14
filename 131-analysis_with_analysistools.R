@@ -41,7 +41,7 @@ if (nrow(loa_main_w) > 0) {
 }
 
 results_main_weigthed %>% 
-  saveRDS("outputs/me/results_main_weigthed.RDS")
+  saveRDS("outputs/analysistools/results_main_weigthed.RDS")
 
 ## Main analysis - unweighted
 design_main_unw <- main |>
@@ -61,7 +61,7 @@ if (nrow(loa_main_unw) > 0) {
 }
 
 results_main_unweigthed %>% 
-  saveRDS("outputs/me/results_main_unweigthed.RDS")
+  saveRDS("outputs/analysistools/results_main_unweigthed.RDS")
 
 ## Loop analysis - weighted
 design_loop_w <- loop |>
@@ -81,5 +81,5 @@ if (nrow(loa_loop_w) > 0) {
 }
 
 results_loop_weigthed %>% 
-  saveRDS("outputs/me/results_loop_weigthed.RDS")
+  saveRDS("outputs/analysistools/results_loop_weigthed.RDS")
 

@@ -235,7 +235,7 @@ write.csv(result |> dplyr::rename(
 # in column "our_variable_names"
 
 # Once modified, load again
-non_shared_variables <- read.csv("outputs/me/filled_non_shared_variables.csv", header = TRUE) %>% filter(!is.na(our_variable_names))
+non_shared_variables <- read.csv("outputs/analysistools/filled_non_shared_variables.csv", header = TRUE) %>% filter(!is.na(our_variable_names))
 
 # Replace names in our dataset
 names(main_with_indicators) <- ifelse(
