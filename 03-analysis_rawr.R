@@ -3,7 +3,9 @@
 library(impactR.kobo)
 # pak::pak("impact-initiatives-hppu/humind")
 library(impactR.analysis)
+library(impactR.utils)
 library(srvyr)
+library(dplyr)
 
 main_with_indicators <- read.csv("outputs/rawr/main_with_indicators.csv") 
 loop_with_indicators <- read.csv("outputs/rawr/loop_with_indicators.csv") 
@@ -49,8 +51,6 @@ choices <- choices_updated |>
 # Loa for main only
 loa <- loa |>
   filter(dataset == "main")
-loa <- loa |> 
-  filter(!var %in% c("edu_barrier_protection_n", "fsl_lsci_cat_exhaust"))
 
 # Run analysis ------------------------------------------------------------
 
@@ -97,3 +97,4 @@ na_n_hoh_gender
 
 na_n_hoh_gender |> 
   saveRDS("outputs/rawr/na_n_hoh_gender.RDS")
+
